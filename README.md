@@ -197,6 +197,8 @@ __The schedule is subject to change__
 - **Homework:**
   - Motorize your contraption!
     - Take a short video of your _working_ Motorized Mechanical Contraption (MMC) and upload it to your Github repository
+    - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything:
+	[setMotorSpeed](/examples/setMotorSpeed)
 	
 ### Week 4: Friday, February 9, 2018
 - Motorized Contraptions critique
@@ -235,8 +237,7 @@ __The schedule is subject to change__
     - speakers
     - electromagnets
   - Adafruit Motor Shield demo
-
-
+  
 - **Homework:**
 	- Build an electrical vehicle (2 week project)
 		- Must be able to steer in one way or another
@@ -255,8 +256,7 @@ __The schedule is subject to change__
 		- This is a 2 week project. You should have a pretty solid
 			prototype or first draft working by next week. Use class next
 			week as an opportunity to solve problems.
-		- You may check out servo motors and motor shields from the Hybrid Lab if
-			you wish
+		- You may check out servo motors and motor shields from the Hybrid Lab
 		- As always
 			- Email me if you have questions
 			- Make a new folder on your Github repository for this project
