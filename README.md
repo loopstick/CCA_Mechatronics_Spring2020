@@ -135,7 +135,13 @@ __The schedule is subject to change__
 - Interests and goals
 - Hybrid Lab tour: supplies and tools for use or checkout
 - Lecture/Demonstration
-  - Basic machines
+  - [simple machines](https://www.vexrobotics.com/vexiq/education/iq-curriculum/simple-machines-and-motion/six-types-of-simple-machines)
+  - mechanical devices
+    - Cranks
+    - Cams
+      - [eccentric cam](https://www.youtube.com/watch?v=ESRsd1TeOSg)
+      - [snail cam](https://www.youtube.com/watch?v=BkPOyRcEZVA)
+      - [cam examples](https://www.youtube.com/watch?v=ubohi5I_7bY)
   - Construction techniques
   - Inspirational videos!
 - Review [Resources](https://github.com/loopstick/ResourcesForClasses)
