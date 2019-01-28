@@ -101,6 +101,9 @@ This class should be both fun and intense. It’s most fun when you enjoy what y
 - _Output_ devices for your projects: LEDs, speakers, motors, etc.
 - _Sensors_ for your project
 - _Laptop_ (Windows, Linux, or Macintosh)
+  - Highly recommended if you plan to use motors: 
+    - Adafruit [Motor/Stepper/Servo Shield](https://www.adafruit.com/product/1438)
+    - also get [Shield Stacking Headers](https://www.adafruit.com/product/85) if you plan to use sensors or another shield
 
 Many vendors grant discounts for educational purposes so ask before you
 purchase. I encourage you to organize a group purchase to save on shipping
