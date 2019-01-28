@@ -1,8 +1,8 @@
 
-Inspirational Videos for Mechatronics
+Some Inspirational Videos for Mechatronics:
 
 - Del’s Beautiful New Wooden Machine: http://www.youtube.com/watch?v=u7ziwuIpnVY
-- Survival Research Labs: http://www.srl.org) Machine or industrial art
+- Survival Research Labs: http://www.srl.org 
 - Matt Heckert: http://www.mattheckert.com/
 - Carl Pisaturo: http://carlpisaturo.com/index.html
 - North Pitney: http://www.northpitney.com/
@@ -10,7 +10,7 @@ Inspirational Videos for Mechatronics
 - Arthur Ganson: http://arthurganson.com/
 - Daniel Rozinin: http://www.smoothware.com/danny/
   - [wooden mirror](http://www.smoothware.com/danny/woodenmirror.html)
-  - https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD
+  - [Mashable](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
 - Theo Jansen: http://www.strandbeest.com/
 - Chico Macmurtrie: http://amorphicrobotworks.org/
 - Rueben Margolin: https://vimeo.com/21021073
