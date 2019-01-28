@@ -130,7 +130,7 @@ trade with other students (or the larger maker community) for parts that you do 
 ### Schedule
 __The schedule is subject to change__
 
-### Week 1: Friday, January 19, 2018
+### Week 1: Monday, January 28, 2019
 - Introductions
 - Interests and goals
 - Hybrid Lab tour: supplies and tools for use or checkout
@@ -150,7 +150,7 @@ __The schedule is subject to change__
   - Create your Github repository using [this guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 	and email me the URL to your repository
 
-### Week 2: Friday, January 26, 2018
+### Week 2: Monday, February 4, 2019
 - Mechanical Contraptions progress report
 - Lecture
   - Case study: [constructing a mechatronic contraption](caseStudy/buildingAContraption)
@@ -170,7 +170,7 @@ __The schedule is subject to change__
     - making the connection to a motor shaft can be challenging! Plan ahead, if you can!
   - Take a short video of your _working_ Mechanical Contraption project and upload it to your Github repository
 	    
-### Week 3: Friday, February 2, 2018
+### Week 3: Monday, February 11, 2019
 - Mechanical Contraptions critique
 - Lecture/Demonstration
   - Basic Electronics: Voltage, Current, Resistance
@@ -196,11 +196,14 @@ __The schedule is subject to change__
   
 - **Homework:**
   - Motorize your contraption!
-    - Take a short video of your _working_ Motorized Mechanical Contraption (MMC) and upload it to your Github repository
+    - Control the speed of the motor using [analogWrite](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/) to prevent damage to your contraption. I recommend starting with a very slow speed at first. (i.e. set analogWrite to 127, 50% of full speed)
     - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything:
 	[setMotorSpeed](/examples/setMotorSpeed)
+    - Study the Arduino Button [tutorial](https://www.arduino.cc/en/Tutorial/Button)
+    - Using the case study as an example, add a switch to your contraption so it moves only when you press the switch is pressed. 	
+  - Take a short video of your _working_ Motorized Mechanical Contraption (MMC) and upload it to your Github repository
 	
-### Week 4: Friday, February 9, 2018
+### Week 4: Monday, February 18, 2019
 - Motorized Contraptions critique
 - Lecture
   - ARDUINO Introduction
@@ -224,7 +227,7 @@ __The schedule is subject to change__
 	  - The ability to easily turn on and off the machie is typically very desirable.
         - Take a short video of your _working_ Drawing Machine and upload it to your Github repository
 
-### Week 5: Friday, February 13, 2017
+### Week 5: Monday, February 25, 2019
 - Drawing Machines critique
 - Lecture
   - Controlling motors (or  other high current loads) with Arduino
@@ -268,22 +271,38 @@ __The schedule is subject to change__
 		- [Summer Robotics](http://teachmetomake.com/wordpress/arduino-robotics-cca-summer2016) class that might have some useful ideas
 		- [H-bridge tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to reverse your motors, although you are not required to do this)
 
-### Week 6: Friday, February 23, 2017
+### Week 6: Monday, March 4, 2019
 - Work week 
 - **Special Guest Lecturer: Scott Kildall - Monday, March 7 @ 9am**
 
-### Week 7: Friday, March 2, 2017
+### Week 7: Monday, March 11, 2019
 - Vehicle Project presentation and critique 
-			
-- Midterm evaluations 1-3pm
-- Lecture: more Motor control
+- Lecture: 
+  - more Motor control
     - H-Bridges
       - to buy or to build?
+      - https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/ and 
+      - https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
+      - http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
+  - Other Topics:
+    	- Servo motors
+ 	- Stepper motors 
+	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
+	- Shields
+	- Conditionals
+	  - If Then Else
+	- [Blink without Delay](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
+	- [Multitasking](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+	- [Complex control](examples/multitasking/multitasking.ino)
+	- [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
+	- [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing) 
+	- [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays) 
+	- [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) 
 
 - Hands-on activity
 	- Breadboard L293 H-bridge motor controller
 	
-- Homework due today: Friday March 2. 
+- **Homework** due today: Monday March 11. 
   - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day. 
   
   			- Personal self-evaluation
@@ -300,29 +319,11 @@ __The schedule is subject to change__
 				- What would you like to change in the course material?
 				- What would you like to change in the way the material is delivered?
 				- What would you add to this class?
-				- What would you remove from this class?
+				- What would you remove from this class?			
 				
-				
-- **Homework due next week.** Please read and try to understand as much as
-	possible. Be prepared to answer questions in class. It is OK if you don't
-	understand everything, but it is not OK if you did not read:
-	
-	Read about 
-	H-Bridges: 
-	- https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/ and 
-	- https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
-	- http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
-	
-	 review using Transistors for Motor Control, if necessary:
-	 - https://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/
-	 
-	OLD STUFF:
-	- [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
-	- [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing) 
-	- [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays) 
-	- [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) 
 
-### Week 8: Friday, March 6, 2017
+
+### Week 8: Monday, March 18, 2019
 - Evaluation feedback
 	- Documentation!
 	- Programming, examples, electronics
@@ -357,17 +358,21 @@ __The schedule is subject to change__
 			start over at the beginning.
 		5. Upload this program to your Github repository 
 			in a new folder called "week8"
-- Upcoming: Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class. Upload this proposal to your Github repository in a new folder called "finalProject"
-		page
-### Week 9: Friday, March 16, 2018
+- Upcoming: Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class. Upload this proposal to your Github repository in a new folder called "FinalProject"
+	
+		
+### Week 9: Spring Break: No Class - Monday, March 25, 2019 
+
+
+## Week 10: Monday, April 1, 2019
 - Homework critique
 - Lecture
-		- [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/), if necessary
-		- [Edge detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
-		- [Debouncing](https://www.arduino.cc/en/Tutorial/Debounce)
-		- [Smoothing](https://www.arduino.cc/en/Tutorial/Smoothing)
-		- Counting and [modulo](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
-		- Debugging
+  - [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/), if necessary
+  - [Edge detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
+  - [Debouncing](https://www.arduino.cc/en/Tutorial/Debounce)
+  - [Smoothing](https://www.arduino.cc/en/Tutorial/Smoothing)
+  - Counting and [modulo](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
+  - Debugging
 - Critique proposal concepts
 - Homework
 	- Complete the programming assignment from last week
@@ -391,9 +396,8 @@ __The schedule is subject to change__
 			- Unused variables and statements should be removed
 		- You will be graded on these points
 
-## Week 10: Spring Break: No class Friday, March 23, 2018
 
-### Week 11: Friday, March 30, 2018
+### Week 11: Monday, April 8, 2019
 - Lecture
   - Fritzing and Othermill [tutorial](https://web.archive.org/web/20160906220300/http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)
   - Sensors (accelerometer, sound) and LCD display
@@ -412,29 +416,25 @@ __The schedule is subject to change__
 		(preferably the part you are most concerned about)
 		and demonstrate it in class next week
 
-### Week 12: Friday, April 6, 2018
+### Week 12: Monday, April 15, 2019
 - Critique working mock-up
--
-- Homework: __Working__ minimal viable project due week 14: April 20
-
-### Week 13: Friday, April 13, 2018
 - Work week. 
 - Homework
-  - Read [Physical Computing’s Greatest Hits (and
-    misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
+  - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
     think about whether the your project is doing something in a meaningful or
     unique way. Will someone want to play with your project for longer than
     5 seconds? Why or why not?
   - Minimal Viable Project is due next week! 
     - Simplify your project if necessary
     - If it is too simple you will have one week to add complexity
+- Homework: __Working__ minimal viable project due week 14: April 29
 
-### Week 14: Friday, April 20, 2018 - PENULTIMATE CLASS!
+### Week 13: Monday, April 22, 2019 - PENULTIMATE CLASS!
 - Demonstrate working minimal viable project
 - Work on final project
 
 
-### Week 15: Friday, April 27, 2018 - LAST CLASS!
+### Week 14: Monday, April 29, 2018 - LAST CLASS!
 - Course evaluations 
 - Review schedule 
 - Review Interface Show spreadsheet
@@ -442,35 +442,30 @@ __The schedule is subject to change__
 - Final project critique
 
 ### Homework: Project writeup
-- Project writeup due May 4 9am, all on Github
+- Project writeup due May 6 9am, all on Github
   - Describe goals of project briefly
-  - Describe how, from a technical point of view, your choice of hardware
-		and software achieves that goal
+  - Describe how, from a technical point of view, your choice of hardware and software achieves that goal
   - Accurate schematic
   - Parts list (major or unique parts, not LEDs, wire, etc.)
-  - A few pictures of overall project plus some close ups of the electronics
-		and any mechanism (cellphone is fine) 
-  - A short video (cellphone is fine) of the operational project
+  - A few pictures of overall project plus some close ups of the electronics and any mechanism 
+  - A short video of the operational project
   - Program(s) must be well commented 
     - Each variable must have a meaningful name
     - Each section (function, code block, loop, whatever) must be explained
-    - All unused variables and code must be removed (debugging code
-			commented out may remain)
+    - All unused variables and code must be removed (commented out debug code may remain)
 
-### Week 15: Friday, May 4, 2018
+
+### Week 15: Monday, May 6, 2019 - Year Zero Reviews - no class
 - No class;  End of Year Reviews for Year Zero and Year One
+- Project writeup due 
 
-## Friday, May 4 at 9am: Project writeup due 
 
 
-## Saturday, May 5: Interface Show!!!!
+## Friday, May 10: Interface Show
 	7PM to 9:30PM
 	Oliver Art Center
 	California College of the Arts
 	5212 Broadway, Oakland 
-
-
-
 
 
 ## Current Student Repositories
