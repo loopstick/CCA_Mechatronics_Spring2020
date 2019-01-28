@@ -133,107 +133,99 @@ __The schedule is subject to change__
 ### Week 1: Friday, January 19, 2018
 - Introductions
 - Interests and goals
-- Lecture/Demonstration/Hands-on activity
+- Hybrid Lab tour: supplies and tools for use or checkout
+- Lecture/Demonstration
   - Basic machines
   - Construction techniques
+  - Inspirational videos!
 - Review [Resources](https://github.com/loopstick/ResourcesForClasses)
   - especially the [Mechatronic Resources](https://github.com/loopstick/ResourcesForClasses#mechatronic-resources) section  
    
 - **Homework:**
-  - Build a mechanical contraption that is activated by a crank
-  - Order the required equipment (Arduino, motor, etc) to arrive no later than Friday January 27 so
-		that you can complete the homework for week 3. 
+  - Get foamcore and dowels and begin experimenting!
+  - start building a crank driven mechanical contraption (due Week 3)
+  - Order required equipment (Arduino, motors, etc) to arrive no later than Sunday, February 17 (Fred's birthday!) so that you can participate in the class demo week 4: Monday, Feb 18. 
 	- some motors are available for use in the Hybrid Lab
 	- Arduino Unos can be checked out from the Hybrid Lab
   - Create your Github repository using [this guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 	and email me the URL to your repository
 
 ### Week 2: Friday, January 26, 2018
-- Mechanical contraptions "critique"
-- Review [Resources](https://github.com/loopstick/ResourcesForClasses)
-  - especially the [Mechatronic Resources](https://github.com/loopstick/ResourcesForClasses#mechatronic-resources) section
-- Hybrid Lab tour: supplies and tools for use or checkout
-- Lecture/Demonstration/Hands-on activity
-  - Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
+- Mechanical Contraptions progress report
+- Lecture
+  - Case study: [constructing a mechatronic contraption](caseStudy/buildingAContraption)
+  - Motor types (yes, before we even talk about electronicity)
+   - [Meet the Motors](https://vimeo.com/album/2801639/video/84274150)
+   - [How to Select the Right Motor: Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
+  - circuits
+  - switches
+- Lab
+  - work on Mechanical Contraptions
+
 - **Homework:**
-	- Review the Basic Arduino
-	  [Tutorial](https://github.com/loopstick/ArduinoTutorial)
-	  we did in class. Read the entire tutorial, even the parts we didn't do
-	- You might want to refer to some other Arduino material. There is plenty
-	online, such as the [Arduino Resources](https://github.com/loopstick/ResourcesForClasses#basic-arduino-resources) 
-	on our class [Resources](https://github.com/loopstick/ResourcesForClasses) page
-	- Read about Motors: 
-	  - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
-	  - [Using a Transistor to Control Hight Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
-	  - How to Select the Right Motor: [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
-	
-	- Begin thinking about a motorized contraption with simple user interaction functionality
-	- you may either add a motor and sensors to last week's assignment or build a new one
-	- making the connection to a motor shaft can be challenging! Plan ahead, if you can!
+- Review
+  - [How to Select the Right Motor](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
+  - Begin thinking about motorizing your contraption 
+    - you may either add a motor and sensors to last week's assignment or build a new one
+    - making the connection to a motor shaft can be challenging! Plan ahead, if you can!
+  - Take a short video of your _working_ Mechanical Contraption project and upload it to your Github repository
 	    
 ### Week 3: Friday, February 2, 2018
+- Mechanical Contraptions critique
 - Lecture/Demonstration
-  - Transistors and Motors 
-  - Selecting the Correct Motor 
-      - [Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)	
-      - Capacitors if necessary
-  - Hybrid Lab motors
-      - there are some motors for use in the Hybrid Lab (thanks, Michael Shiloh!)
-      - In order to use these motors we need to solder wire leads to them and 
-      add strain relief for the connections with hot glue or tape _or else_
-      	- image here please
-  - Case study of [constructing mechatronics contraption](caseStudy/buildingAContraption)
-  - Electronic Components [PowerPoint slides posted here](https://github.com/loopstick/Mechatronics-CCA-Spring-2018/blob/master/DrSudhu_ElecComponents_v2.pdf)
-- Hands-on activity
-  - Soldering Practice!
-  - Make your motors go!
-- **Homework:**
-	- Study the schematic and the code for the contraption detailed [here](caseStudy/buildingAContraption)
-	- Build a motorized mechanical contraption. Control the speed of the motor using
-		analogWrite() to prevent damage to your contraption. I recommend starting
-		with a very slow speed at first.
-	  - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything:
-	[setMotorSpeed](/examples/setMotorSpeed)
-	- Study the Arduino Button
-		[tutorial](https://www.arduino.cc/en/Tutorial/Button)
-	- Using the case study as an example,
-		add a switch to your contraption so it moves only when you press the
-		switch is pressed. 	
-	- Take a short video of your project and upload it to your Github repository
-	- Hand draw a __schematic__ diagram of your circuit take a picture of your schematic 
-	(phone is fine) and upload it to your Github repository. 
+  - Basic Electronics: Voltage, Current, Resistance
+  - circuits
+    - switches
+  - Electronic Components [PowerPoint posted here](https://github.com/loopstick/Mechatronics-CCA-Spring-2018/blob/master/DrSudhu_ElecComponents_v2.pdf)
+     - resistors
+     - capacitors
+     - inductors
+     - transformers
+     - diodes
+     - transistors
+     - integrated circuits
+  - shaft coupling techniques for Hybrid Lab motors
 
+- Lab
+  - Motors + Soldering and Strain Relief!
+      - there are some motors for use in the Hybrid Lab (thanks, Michael Shiloh!)
+      - In order to use these motors we need to solder wire leads to them and add strain relief for the connections with hot glue or tape _or else_
+      	- image here please
+     - shaft coupling
+  - Make your motors go!
+  
+- **Homework:**
+  - Motorize your contraption!
+    - Take a short video of your _working_ Motorized Mechanical Contraption (MMC) and upload it to your Github repository
+	
 ### Week 4: Friday, February 9, 2018
-- Project critique
-- Github [resources](https://github.com/loopstick/ResourcesForClasses)
-- Review
-	- Schematic symbols
-	- Circuit and code of [mechatronics contraption](caseStudy/buildingAContraption)
-- Lecture/Demonstration/Hands-on activity
-	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
-	- Soldering
-	- Conditionals
+- Motorized Contraptions critique
+- Lecture
+  - ARDUINO Introduction
+- Lab
+  - Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
+
 - **Homework:** 
-	- Build a simple electrical drawing machine. 
-		The only requirement is that it is somehow motorized and that 
-		it leaves a mark on a piece of paper.
-		You may use Arduino if you wish, 
-		but you are not required to. 
-		You may use sensors if you wish, 
-		but you are not required to. 
-		Your drawing may be as complex or as simple as you wish.
+	- play with Arduino
+	  - make something _interesting_ happen with 2 LEDs
+	    - think about how this might relate to controlling two motors
+	  - Review the Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
+	  we did in class. Read the entire tutorial, even the parts we didn't do
+	  - You might want to refer to some other Arduino material. There is plenty
+	online, such as the [Arduino Resources](https://github.com/loopstick/ResourcesForClasses#basic-arduino-resources) 
+	on our class [Resources](https://github.com/loopstick/ResourcesForClasses) page
+	  - Read about controlling Motors with Arduino - (Must use a transistor or boom! - Arduino up in smoke): 
+	  - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
+	  - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
+	- Build a simple drawing machine. 
+	  - The only requirement is that it is somehow motorized and that it leaves a mark on a piece of paper. You may use Arduino if you wish, but you are not required to.  You may use sensors if you wish, but you are not required to. Your drawing may be as complex or as simple as you wish.
+	  - The ability to easily turn on and off the machie is typically very desirable.
+	- Take a short video of your _working_ Drawing Machine and upload it to your Github repository
 
 ### Week 5: Friday, February 13, 2017
-- Project critique
-- Lecture/Demonstration/Hands-on activity
-	- Servo motor, stepper motor (look for tutorials e.g. Adafruit or Sparkfun)
-	- Blink without Delay
-		[tutorial](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
-	- Multitasking 
-		[tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
-	- Complex control [example](examples/multitasking/multitasking.ino)
-	- Shields
-	- [Construction Techniques](http://teachmetomake.com/wordpress/construction-techniques)
+- Drawing Machines critique
+
+
 - **Homework:**
 	- Put a picture and a short video of your drawing machine in your Github
 		repository
@@ -479,31 +471,21 @@ __The schedule is subject to change__
 
 
 ## Current Student Repositories
-CCA Spring 2018 Mechtranics GitHub Repositories
-
-Jiahao - https://github.com/PlusWhy/Mechatronics
-
-Kelly - https://github.com/krouser720/hw1
-
-Jamie - https://github.com/jamie82226/Spring18_Mechatronic_JamieTsai
-
-Patrick - https://github.com/Patrick-Tingkai/Mechatronics
-
-Yao - 
-
-Diqing - https://github.com/DiqingWWW/Mechantronics
-
-Ming - https://github.com/xmingzhang/Mechatronics-Spring-2018
-
-Peter - https://github.com/peterzhao1994/Peter
-
-Chancie - https://github.com/Chancie-Zheng/Chancie.Z
-
-Andrew - https://github.com/Kimhangi
-
+CCA Spring 2019 Mechtranics GitHub Repositories
 
 
 ## Past Student Repositories - for reference
+CCA Spring 2018 Mechtranics GitHub Repositories
+Jiahao - https://github.com/PlusWhy/Mechatronics
+Kelly - https://github.com/krouser720/hw1
+Jamie - https://github.com/jamie82226/Spring18_Mechatronic_JamieTsai
+Patrick - https://github.com/Patrick-Tingkai/Mechatronics
+Diqing - https://github.com/DiqingWWW/Mechantronics
+Ming - https://github.com/xmingzhang/Mechatronics-Spring-2018
+Peter - https://github.com/peterzhao1994/Peter
+Chancie - https://github.com/Chancie-Zheng/Chancie.Z
+
+
 [Jeffrey Stone](http://github.com/JeffreyStone/jeffrey)  
 [Shiyu Zhang (Raine)](http://github.com/Raineshiyuzhang/Raine-Shiyu-Zhang-)  
 [Xueting Wang (Vivian)](https://github.com/vivwang)  
