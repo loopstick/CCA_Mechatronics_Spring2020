@@ -155,10 +155,10 @@ __The schedule is subject to change__
 - Lecture
   - Case study: [constructing a mechatronic contraption](caseStudy/buildingAContraption)
   - Motor types (yes, before we even talk about electronicity)
-   - [Meet the Motors](https://vimeo.com/album/2801639/video/84274150)
-   - [How to Select the Right Motor: Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
+    - [Meet the Motors](https://vimeo.com/album/2801639/video/84274150)
+    - [How to Select the Right Motor: Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
   - circuits
-  - switches
+    - switches
 - Lab
   - work on Mechanical Contraptions
 
@@ -203,10 +203,10 @@ __The schedule is subject to change__
 - Lecture
   - ARDUINO Introduction
 - Lab
-  - Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
+  - Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
 
 - **Homework:** 
-	- play with Arduino
+	- **play with your Arduino**
 	  - make something _interesting_ happen with 2 LEDs
 	    - think about how this might relate to controlling two motors
 	  - Review the Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
@@ -217,20 +217,27 @@ __The schedule is subject to change__
 	  - Read about controlling Motors with Arduino - (Must use a transistor or boom! - Arduino up in smoke): 
 	  - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
 	  - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
-	- Build a simple drawing machine. 
+	- **Build a simple drawing machine.**
 	  - The only requirement is that it is somehow motorized and that it leaves a mark on a piece of paper. You may use Arduino if you wish, but you are not required to.  You may use sensors if you wish, but you are not required to. Your drawing may be as complex or as simple as you wish.
 	  - The ability to easily turn on and off the machie is typically very desirable.
-	- Take a short video of your _working_ Drawing Machine and upload it to your Github repository
+        - Take a short video of your _working_ Drawing Machine and upload it to your Github repository
 
 ### Week 5: Friday, February 13, 2017
 - Drawing Machines critique
+- Lecture
+  - Controlling motors (or  other high current loads) with Arduino
+    - the importance of a [flyback diode](https://en.wikipedia.org/wiki/Flyback_diode)
+    - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
+    - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
+  - other electromechanical devices
+    - relays
+    - solenoids
+    - speakers
+    - electromagnets
+  - Adafruit Motor Shield demo
 
 
 - **Homework:**
-	- Put a picture and a short video of your drawing machine in your Github
-		repository
-		- Make a new folder in your Github repository for the drawing
-			machine project
 	- Build an electrical vehicle (2 week project)
 		- Must be able to steer in one way or another
 		- Can be either autonomous or wired remote control
@@ -252,8 +259,6 @@ __The schedule is subject to change__
 			you wish
 		- As always
 			- Email me if you have questions
-			- Remember my office hours 3-3:30 on Thursdays, and 
-				at other times if you email me to set it up.
 			- Make a new folder on your Github repository for this project
 			- Put your code in that folder. 
 			- Put a schematic in that folder. Hand drawn is fine.  
@@ -261,16 +266,14 @@ __The schedule is subject to change__
 				I use, get it [here](http://fritzing.org)
 	- Additional resources:
 		- [Summer Robotics](http://teachmetomake.com/wordpress/arduino-robotics-cca-summer2016) class that might have some useful ideas
-		- [H-bridge tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to
-			reverse your motors, although you are not required to do this)
+		- [H-bridge tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to reverse your motors, although you are not required to do this)
 
 ### Week 6: Friday, February 23, 2017
-- Work week ~~with Special Guest Lecturer ~~
+- Work week 
+- **Special Guest Lecturer: Scott Kildall - Monday, March 7 @ 9am**
 
 ### Week 7: Friday, March 2, 2017
 - Vehicle Project presentation and critique 
-							
-		We'll spend another 2 weeks on this vehicle project
 			
 - Midterm evaluations 1-3pm
 - Lecture: more Motor control
