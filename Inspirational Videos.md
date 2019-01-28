@@ -2,6 +2,8 @@
 Some Inspirational Videos for Mechatronics:
 
 - Del’s Beautiful New Wooden Machine: http://www.youtube.com/watch?v=u7ziwuIpnVY
+- pendulum marble clock: - https://www.youtube.com/watch?v=UHBHCsrqYMw
+- mechanical movements - https://www.youtube.com/watch?v=ruiQR3CZE7k
 - Survival Research Labs: http://www.srl.org 
 - Matt Heckert: http://www.mattheckert.com/
 - Carl Pisaturo: http://carlpisaturo.com/index.html
