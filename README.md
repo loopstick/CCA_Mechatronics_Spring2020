@@ -133,7 +133,8 @@ __The schedule is subject to change__
 ### Week 1: Monday, January 28, 2019
 - Introductions
 - Interests and goals
-- Hybrid Lab tour: supplies and tools for use or checkout
+- Inspirational videos!
+-  [Resources](https://github.com/loopstick/ResourcesForClasses)
 - Lecture/Demonstration
   - [simple machines](https://www.vexrobotics.com/vexiq/education/iq-curriculum/simple-machines-and-motion/six-types-of-simple-machines)
   - mechanical devices
@@ -143,12 +144,15 @@ __The schedule is subject to change__
       - [snail cam](https://www.youtube.com/watch?v=BkPOyRcEZVA)
       - [cam examples](https://www.youtube.com/watch?v=ubohi5I_7bY)
   - Construction techniques
-  - Inspirational videos!
-- Review [Resources](https://github.com/loopstick/ResourcesForClasses)
-  - especially the [Mechatronic Resources](https://github.com/loopstick/ResourcesForClasses#mechatronic-resources) section  
-   
+    - [cardboard!](http://www.wkiri.com/today/?p=3599)
+    - [cardboard](https://www.youtube.com/watch?v=4W1dTyUrfZc)
+    - [cardboard](https://www.youtube.com/watch?v=XYdF-B0r_V0)
+    - [cardboard](https://www.youtube.com/watch?v=QU2CzClTtjk)
+    - foamcore and dowels ? ?
+ - Hybrid Lab tour: supplies and tools for use or checkout  
+ 
 - **Homework:**
-  - Get foamcore and dowels and begin experimenting!
+  - Get cardboard (or foamcore and dowels) and begin experimenting!
   - start building a crank driven mechanical contraption (due Week 3)
   - Order required equipment (Arduino, motors, etc) to arrive no later than Sunday, February 17 (Fred's birthday!) so that you can participate in the class demo week 4: Monday, Feb 18. 
 	- some motors are available for use in the Hybrid Lab
@@ -158,6 +162,8 @@ __The schedule is subject to change__
 
 ### Week 2: Monday, February 4, 2019
 - Mechanical Contraptions progress report
+- Review [Resources](https://github.com/loopstick/ResourcesForClasses)
+  - especially the [Mechatronic Resources](https://github.com/loopstick/ResourcesForClasses#mechatronic-resources) section  
 - Lecture
   - Case study: [constructing a mechatronic contraption](caseStudy/buildingAContraption)
   - Motor types (yes, before we even talk about electronicity)
