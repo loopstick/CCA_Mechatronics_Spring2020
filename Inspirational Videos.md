@@ -2,17 +2,23 @@
 Some Inspirational Videos for Mechatronics:
 
 - Del’s Beautiful New Wooden Machine: http://www.youtube.com/watch?v=u7ziwuIpnVY
-- pendulum marble clock: - https://www.youtube.com/watch?v=UHBHCsrqYMw
-- mechanical movements - https://www.youtube.com/watch?v=ruiQR3CZE7k
+- pendulum marble clock: https://www.youtube.com/watch?v=UHBHCsrqYMw
+- mechanical movements:  https://www.youtube.com/watch?v=ruiQR3CZE7k
+- Arthur Ganson: http://arthurganson.com/
+- Benjamin Cowden: http://www.benjamincowden.com/
 - Survival Research Labs: http://www.srl.org 
+  - [SRL at XFF 2012 teaser #4](https://www.youtube.com/watch?v=vVMj6gL420g&t=244s)
+- Christian Ristow: http://christianristow.com/
+  - Hand of Man: https://www.youtube.com/watch?v=rgpf7Rcjf-g
 - Matt Heckert: http://www.mattheckert.com/
 - Carl Pisaturo: http://carlpisaturo.com/index.html
+  - [Slave 1 Performance Robot](https://www.youtube.com/watch?v=Pkyklgm-N10)
 - North Pitney: http://www.northpitney.com/
-  - http://www.northpitney.com/works/maze/maze.html
-- Arthur Ganson: http://arthurganson.com/
+  - [Intermap - Dynamic Maze](http://www.northpitney.com/works/maze/maze.html)
+- Crescenti & Cantoni: http://cantoni-crescenti.squarespace.com/
+  - [When Infinity Comes To Life](https://www.youtube.com/watch?v=hUbweJG68SI)
 - Daniel Rozinin: http://www.smoothware.com/danny/
-  - [wooden mirror](http://www.smoothware.com/danny/woodenmirror.html)
-  - [Mashable](https://mashable.com/video/daniel-rozin-mechanical-mirror-toys/#A2M3r4XxHgqD)
+  - [Mashable Video: Mechanical Mirrors](https://www.youtube.com/watch?v=P-RqdgkCM5M)
 - Theo Jansen: http://www.strandbeest.com/
 - Chico Macmurtrie: http://amorphicrobotworks.org/
 - Rueben Margolin: https://vimeo.com/21021073
@@ -21,8 +27,8 @@ Some Inspirational Videos for Mechatronics:
 - Zimoun:  https://vimeo.com/7235817
 - Pe Lang: http://www.pelang.ch/
 - Harvey Moon: https://m.youtube.com/watch?v=VufMgHvaoG0
-- Christian Ristow - Hand of Man: https://www.youtube.com/watch?v=rgpf7Rcjf-g
 - Eric Singer (LEMUR): http://www.singerbots.com
 - self-balancing robot: http://www.youtube.com/watch?v=Tw9Jr-SPL0Y
 - tree climbing robot: http://www.youtube.com/watch?v=zkpH1BjD6Wc
 - YEMRS: https://www.youtube.com/watch?v=MjNB3nKPMb8
+- Wintergatan - Marble Machine: https://www.youtube.com/watch?v=IvUU8joBb1Q
