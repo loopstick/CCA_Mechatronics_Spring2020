@@ -130,7 +130,7 @@ trade with other students (or the larger maker community) for parts that you do 
 ### Schedule
 __The schedule is subject to change__
 
-### Week 1: Monday, January 28, 2019
+### Week 2: Monday, January 28, 2019
 - Introductions
 - Interests and goals
 - Inspirational videos!
@@ -160,8 +160,10 @@ __The schedule is subject to change__
   - Create your Github repository using [this guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 	and email me the URL to your repository
 
-### Week 2: Monday, February 4, 2019
+### Week 3: Monday, February 4, 2019
+
 - Mechanical Contraptions progress report
+- discuss Interface show: Saturday, May 11, 7-9:30pm at Oliver Art Gallery in Oakland
 - Review [Resources](https://github.com/loopstick/ResourcesForClasses)
   - especially the [Mechatronic Resources](https://github.com/loopstick/ResourcesForClasses#mechatronic-resources) section  
 - Lecture
@@ -184,7 +186,7 @@ __The schedule is subject to change__
   - get 4 AA batteries to bring to class next week
 
 	    
-### Week 3: Monday, February 11, 2019
+### Week 4: Monday, February 11, 2019
 - Mechanical Contraptions critique
 - Lecture/Demonstration
   - Basic Electronics: Voltage, Current, Resistance
@@ -217,7 +219,7 @@ __The schedule is subject to change__
     - Using the case study as an example, add a switch to your contraption so it moves only when you press the switch is pressed. 	
   - Take a short video of your _working_ Motorized Mechanical Contraption (MMC) and upload it to your Github repository
 	
-### Week 4: Monday, February 18, 2019
+### Week 5: Monday, February 18, 2019
 - Motorized Contraptions critique
 - Lecture
   - ARDUINO Introduction
@@ -241,7 +243,7 @@ __The schedule is subject to change__
 	  - The ability to easily turn on and off the machie is typically very desirable.
         - Take a short video of your _working_ Drawing Machine and upload it to your Github repository
 
-### Week 5: Monday, February 25, 2019
+### Week 6: Monday, February 25, 2019
 - Drawing Machines critique
 - Lecture
   - Controlling motors (or  other high current loads) with Arduino
@@ -285,11 +287,11 @@ __The schedule is subject to change__
 		- [Summer Robotics](http://teachmetomake.com/wordpress/arduino-robotics-cca-summer2016) class that might have some useful ideas
 		- [H-bridge tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to reverse your motors, although you are not required to do this)
 
-### Week 6: Monday, March 4, 2019
+### Week 7: Monday, March 4, 2019
 - Work week 
 - **Special Guest Lecturer: Scott Kildall - Monday, March 7 @ 9am**
 
-### Week 7: Monday, March 11, 2019
+### Week 8: Monday, March 11, 2019
 - Vehicle Project presentation and critique 
 - Lecture: 
   - more Motor control
@@ -337,7 +339,7 @@ __The schedule is subject to change__
 				
 
 
-### Week 8: Monday, March 18, 2019
+### Week 9: Monday, March 18, 2019
 - Evaluation feedback
 	- Documentation!
 	- Programming, examples, electronics
@@ -375,7 +377,7 @@ __The schedule is subject to change__
 - Upcoming: Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class. Upload this proposal to your Github repository in a new folder called "FinalProject"
 	
 		
-### Week 9: Spring Break: No Class - Monday, March 25, 2019 
+### Spring Break: No Class - Monday, March 25, 2019 
 
 
 ## Week 10: Monday, April 1, 2019
@@ -468,14 +470,13 @@ __The schedule is subject to change__
     - Each section (function, code block, loop, whatever) must be explained
     - All unused variables and code must be removed (commented out debug code may remain)
 
-
 ### Week 15: Monday, May 6, 2019 - Year Zero Reviews - no class
 - No class;  End of Year Reviews for Year Zero and Year One
 - Project writeup due 
 
 
 
-## Friday, May 10: Interface Show
+## Saturday, May 11: Interface Show
 	7PM to 9:30PM
 	Oliver Art Center
 	California College of the Arts
