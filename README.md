@@ -173,14 +173,16 @@ __The schedule is subject to change__
     - switches
 - Lab
   - work on Mechanical Contraptions
+  - battery holders and batteries
 
 - **Homework:**
-- Review
-  - [How to Select the Right Motor](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
+  - Take a short video of your _working_ Mechanical Contraption project and upload it to your Github repository
+  - Review [How to Select the Right Motor](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
   - Begin thinking about motorizing your contraption 
     - you may either add a motor and sensors to last week's assignment or build a new one
     - making the connection to a motor shaft can be challenging! Plan ahead, if you can!
-  - Take a short video of your _working_ Mechanical Contraption project and upload it to your Github repository
+  - get 4 AA batteries to bring to class next week
+
 	    
 ### Week 3: Monday, February 11, 2019
 - Mechanical Contraptions critique
