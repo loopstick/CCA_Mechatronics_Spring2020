@@ -6,6 +6,8 @@ Some Inspirational Videos for Mechatronics:
 - mechanical movements:  https://www.youtube.com/watch?v=ruiQR3CZE7k
 - Arthur Ganson: http://arthurganson.com/
 - Benjamin Cowden: http://www.benjamincowden.com/
+- Neil Mendoza: http://www.neilmendoza.com/
+ - [Fish Hammer](http://www.neilmendoza.com/portfolio/fish-hammer/)
 - Survival Research Labs: http://www.srl.org 
   - [SRL at XFF 2012 teaser #4](https://www.youtube.com/watch?v=vVMj6gL420g&t=244s)
 - Christian Ristow: http://christianristow.com/
@@ -32,3 +34,8 @@ Some Inspirational Videos for Mechatronics:
 - tree climbing robot: http://www.youtube.com/watch?v=zkpH1BjD6Wc
 - YEMRS: https://www.youtube.com/watch?v=MjNB3nKPMb8
 - Wintergatan - Marble Machine: https://www.youtube.com/watch?v=IvUU8joBb1Q
+- Trimpin
+  - [Sound of Invention: trailer](https://www.youtube.com/watch?v=ahQKsW0LHEA)
+  - [Sound of Invention: EMP trailer](https://www.youtube.com/watch?v=lWF1Al8lYBs)
+  - [Klavierstucke (Piano pieces)](https://www.youtube.com/watch?v=LroQ6FmfRcc)
+  - [A Kinetic Retrospective](https://www.youtube.com/watch?v=cbxUHVCME-M)
