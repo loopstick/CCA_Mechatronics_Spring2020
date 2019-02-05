@@ -485,6 +485,10 @@ __The schedule is subject to change__
 
 ## Current Student Repositories
 CCA Spring 2019 Mechtranics GitHub Repositories
+[Jason](https://github.com/jasonmalik4/Homework1/tree/master)
+[Negash](https://github.com/conceitedengineering/MechatronicsS19)
+[Simon](https://github.com/srevlock/FirstTry)
+
 
 
 ## Past Student Repositories - for reference
@@ -498,7 +502,7 @@ Ming - https://github.com/xmingzhang/Mechatronics-Spring-2018
 Peter - https://github.com/peterzhao1994/Peter
 Chancie - https://github.com/Chancie-Zheng/Chancie.Z
 
-
+Previous Student Repositories
 [Jeffrey Stone](http://github.com/JeffreyStone/jeffrey)  
 [Shiyu Zhang (Raine)](http://github.com/Raineshiyuzhang/Raine-Shiyu-Zhang-)  
 [Xueting Wang (Vivian)](https://github.com/vivwang)  
