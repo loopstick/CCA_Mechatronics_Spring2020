@@ -22,12 +22,12 @@ The class repository will be used to assign homework and reading assignments, an
 You will be required to create your own repository for handing in homework and for project documentation. 
 
 #### Required Textbook
-No textbook is required, but there are many good online references and a few good books out there I can recommend. We also have a good assortment of books in the library.
+No textbook is required. There are many good online references and a few good books out there I can recommend. We also have a good assortment of books in the library. Highly recommended: Making Things Move by Dustyn Roberts http://www.makingthingsmove.com/about-the-book/
 
 #### Prerequisites
 * Basic algebra. You should be comfortable with simple equations, manipulating numbers, fractions, solving for variables, and the
 engineering prefixes (micro, milli, kilo, mega, etc.)
-* Some understanding of geometry and physics will also be helpful.
+* Some understanding of geometry and basic physics will also be helpful.
 
 #### Requirements and Expectations
 * Always bring your computer to class. If you don’t have a computer, check one out from the Media Center. You will need a computer to
@@ -105,11 +105,10 @@ This class should be both fun and intense. It’s most fun when you enjoy what y
     - Adafruit [Motor/Stepper/Servo Shield](https://www.adafruit.com/product/1438)
     - also get [Shield Stacking Headers](https://www.adafruit.com/product/85) if you plan to use sensors or another shield
 
-Many vendors grant discounts for educational purposes so ask before you
-purchase. I encourage you to organize a group purchase to save on shipping
-fees, but do so immediately so you have the equipment on hand.
-
-The code ADAEDU may be good for 10% educational discount at Adafruit.  
+If ordering online I encourage you to organize a group purchase to save on shipping fees, but do so immediately so you have the equipment on hand.
+Many vendors grant discounts for educational purposes so ask before you purchase. 
+ - The code ADAEDU may be good for 10% educational discount at Adafruit. 
+ - Mentioning that you are a student of mine may get you a discount at Al Lasher’s.
 
 Local stores that should carry all these are:
 * [Jameco](http://www.jameco.com) in Belmont, just south of the SFO airport. Order online and pick up same day.
