@@ -484,10 +484,10 @@ __The schedule is subject to change__
 
 ## Current Student Repositories
 CCA Spring 2019 Mechtranics GitHub Repositories
+[Di](https://github.com/DiWANG00)
 [Jason](https://github.com/jasonmalik4/Homework1/tree/master)
 [Negash](https://github.com/conceitedengineering/MechatronicsS19)
 [Simon](https://github.com/srevlock/FirstTry)
-
 
 
 ## Past Student Repositories - for reference
