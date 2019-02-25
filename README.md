@@ -232,19 +232,19 @@ __The schedule is subject to change__
 	  - Read about controlling Motors with Arduino - (Must use a transistor or boom! - Arduino up in smoke): 
 	    - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
 	    - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
-	- **Build a simple drawing machine.**
+	- **Build a simple drawing machine.** or _modify/develop/improve/**finish** your motorized mechanical contraption_
 	  - The only requirement is that it is somehow motorized and that it leaves a mark on a piece of paper. You may use Arduino if you wish, but you are not required to.  You may use sensors if you wish, but you are not required to. Your drawing may be as complex or as simple as you wish.
 	    - Control the speed of the motor using [analogWrite](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/) to prevent damage to your contraption. I recommend starting with a very slow speed at first. (i.e. set analogWrite to 127, 50% of full speed)
               - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything:
 	[setMotorSpeed](/examples/setMotorSpeed) 
-	  - The ability to easily turn on and off the machie is typically very desirable.
+	  - The ability to easily turn on and off the machine is typically very desirable.
 	    - Study the Arduino Button [tutorial](https://www.arduino.cc/en/Tutorial/Button)
         - Take a short video of your _working_ Drawing Machine and upload it to your Github repository
 
 ### Week 6: Monday, February 25, 2019
 - Drawing Machines critique
 - Lecture
-  - Controlling motors (or  other high current loads) with Arduino
+  - Controlling motors (or  other high current loads) with Arduino: from our class tutorial:  [Controlling Large Load witha . Transistor](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md#controlling-large-loads-with-a-transistor)
     - the importance of a [flyback diode](https://en.wikipedia.org/wiki/Flyback_diode)
     - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
     - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
@@ -256,7 +256,7 @@ __The schedule is subject to change__
   - Adafruit Motor Shield demo
   
 - **Homework:**
-	- Build an electrical vehicle (2 week project)
+	- Build an electrical vehicle (2 week project) or _continue to develop your mechanical contraption_
 		- Must be able to steer in one way or another
 		- Can be either autonomous or wired remote control
 			- Autonomous: Arduino decides what to do
