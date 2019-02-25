@@ -483,36 +483,36 @@ __The schedule is subject to change__
 
 ## Current Student Repositories
 CCA Spring 2019 Mechtranics GitHub Repositories
-[Dawn](https://github.com/danqian/mechatronic-2019)
-[Di](https://github.com/DiWANG00)
-[Jason](https://github.com/jasonmalik4/Homework1/tree/master)
-[Negash](https://github.com/conceitedengineering/MechatronicsS19)
-[Simon](https://github.com/srevlock/FirstTry)
+- [Dawn](https://github.com/danqian/mechatronic-2019)
+- [Di](https://github.com/DiWANG00)
+- [Jason](https://github.com/jasonmalik4/Homework1/tree/master)
+- [Negash](https://github.com/conceitedengineering/MechatronicsS19)
+- [Simon](https://github.com/srevlock/FirstTry)
 
 
 ## Past Student Repositories - for reference
-CCA Spring 2018 Mechtranics GitHub Repositories
-Jiahao - https://github.com/PlusWhy/Mechatronics
-Kelly - https://github.com/krouser720/hw1
-Jamie - https://github.com/jamie82226/Spring18_Mechatronic_JamieTsai
-Patrick - https://github.com/Patrick-Tingkai/Mechatronics
-Diqing - https://github.com/DiqingWWW/Mechantronics
-Ming - https://github.com/xmingzhang/Mechatronics-Spring-2018
-Peter - https://github.com/peterzhao1994/Peter
-Chancie - https://github.com/Chancie-Zheng/Chancie.Z
+CCA Spring 2018 Mechtranics GitHub Repositories)
+- [Jiahao](https://github.com/PlusWhy/Mechatronics)
+- [Kelly](https://github.com/krouser720/hw1)
+- [Jamie](https://github.com/jamie82226/Spring18_Mechatronic_JamieTsai)
+- [Patrick](https://github.com/Patrick-Tingkai/Mechatronics)
+- [Diqing](https://github.com/DiqingWWW/Mechantronics)
+- [Ming](https://github.com/xmingzhang/Mechatronics-Spring-2018)
+- [Peter](https://github.com/peterzhao1994/Peter)
+- [Chancie](https://github.com/Chancie-Zheng/Chancie.Z)
 
-Previous Student Repositories
-[Jeffrey Stone](http://github.com/JeffreyStone/jeffrey)  
-[Shiyu Zhang (Raine)](http://github.com/Raineshiyuzhang/Raine-Shiyu-Zhang-)  
-[Xueting Wang (Vivian)](https://github.com/vivwang)  
-[Siyu Zhang (Sirry)](https://github.com/sirryzhang/Siyu-Zhang)  
-[Benner Boswell](https://github.com/bennerboswell/week3-homework-)  
-[Jonathan Simmons](https://github.com/JonSimmons4/hw1)  
-[Alexander M. Kane](https://github.com/alexmkane/mechatronics)  
-[Alexander E. Kozachek](https://github.com/AeKozachek/HW1)  
-[Xiaodong Ma (Andy)](https://github.com/xiaodongma0217/Mechatronics_Andy_2017)  
-[Dan Qian (Dawn)](https://github.com/danqian/homework1)    
-[Hao Sui (Evan)](https://github.com/evansui/homework)  
-[Fei Wang (Vicky)](https://github.com/feiwangvicky/hw)  
-[Yan Yan](https://github.com/yyanyan/yan)  
-[Bhavin](https://github.com/bhavinnagda)  
+## Previous Student Repositories
+- [Jeffrey Stone](http://github.com/JeffreyStone/jeffrey)  
+- [Shiyu Zhang (Raine)](http://github.com/Raineshiyuzhang/Raine-Shiyu-Zhang-)  
+- [Xueting Wang (Vivian)](https://github.com/vivwang)  
+- [Siyu Zhang (Sirry)](https://github.com/sirryzhang/Siyu-Zhang)  
+- [Benner Boswell](https://github.com/bennerboswell/week3-homework-)  
+- [Jonathan Simmons](https://github.com/JonSimmons4/hw1)  
+- [Alexander M. Kane](https://github.com/alexmkane/mechatronics)  
+- [Alexander E. Kozachek](https://github.com/AeKozachek/HW1)  
+- [Xiaodong Ma (Andy)](https://github.com/xiaodongma0217/Mechatronics_Andy_2017)  
+- [Dan Qian (Dawn)](https://github.com/danqian/homework1)    
+- [Hao Sui (Evan)](https://github.com/evansui/homework)  
+- [Fei Wang (Vicky)](https://github.com/feiwangvicky/hw)  
+- [Yan Yan](https://github.com/yyanyan/yan)  
+- [Bhavin](https://github.com/bhavinnagda)  
