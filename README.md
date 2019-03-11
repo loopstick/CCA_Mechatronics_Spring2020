@@ -336,12 +336,22 @@ __The schedule is subject to change__
 				- What would you add to this class?
 				- What would you remove from this class?			
 				
-
+**Homework** due next week: Monday March 18. 
+  - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class. Upload this proposal to your Github repository in a new folder called "FinalProject"
 
 ### Week 9: Monday, March 18, 2019
 - Evaluation feedback
 	- Documentation!
 	- Programming, examples, electronics
+	
+- Individual Final Project meetings 
+  - Dawn
+  - Peng
+  - Jason
+  - Simon
+  - Di
+  - Anqi
+
 - Lecture
 	- Coding
 		- Functions
@@ -373,6 +383,7 @@ __The schedule is subject to change__
 			start over at the beginning.
 		5. Upload this program to your Github repository 
 			in a new folder called "week8"
+
 - Upcoming: Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class. Upload this proposal to your Github repository in a new folder called "FinalProject"
 	
 		
