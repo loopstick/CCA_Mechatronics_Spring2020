@@ -292,10 +292,11 @@ __The schedule is subject to change__
 ### Week 8: Monday, March 11, 2019
 - Vehicle Project presentation and critique 
 - Lecture: 
+  - [Debugging/Troubleshooting](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/Debugging.md)
   - more Motor control
     - H-Bridges
       - to buy or to build?
-      - https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/ and 
+      - https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/
       - https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
       - http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
   - Other Topics:
