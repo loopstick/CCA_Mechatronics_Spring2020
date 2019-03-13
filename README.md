@@ -254,7 +254,7 @@ __The schedule is subject to change__
     - speakers
     - electromagnets
   - Adafruit Motor Shield demo
-  
+ 
 - **Homework:**
 	- Build an electrical vehicle (2 week project) or _continue to develop your mechanical contraption_
 		- Must be able to steer in one way or another
@@ -279,7 +279,7 @@ __The schedule is subject to change__
 			- Make a new folder on your Github repository for this project
 			- Put your code in that folder. 
 			- Put a schematic in that folder. Hand drawn is fine.  
-				If you want to use the schematic capture program that
+				If you want to use Frtizing, the schematic capture program that
 				I use, get it [here](http://fritzing.org)
 	- Additional resources:
 		- [Summer Robotics](http://teachmetomake.com/wordpress/arduino-robotics-cca-summer2016) class that might have some useful ideas
@@ -287,35 +287,48 @@ __The schedule is subject to change__
 
 ### Week 7: Monday, March 4, 2019
 - Work week 
-- **Special Guest Lecturer: Scott Kildall - Monday, March 7 @ 9am**
+  - keep working on your vehicle/driving robot
+  - email me with code questions, problems, etc
+  - post project documentation on gitHub as you go!!
+  
+- **Special Guest Lecturer: Scott Kildall - Thursday, March 7 @ 9am**
 
 ### Week 8: Monday, March 11, 2019
 - Vehicle Project presentation and critique 
 - Lecture: 
   - [Debugging/Troubleshooting](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/Debugging.md)
+    - also [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) on our resources page
   - more Motor control
     - H-Bridges
-      - to buy or to build?
       - https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/
-      - https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
-      - http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
+        - also 
+	  - https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
+          - http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
+      - to buy or to build?
+        - buy
+          - https://www.mpja.com/Dual-L298N-Motor-Driver-Board/productinfo/34747+MD
+	- build
+	  - https://www.adafruit.com/product/807	
   - Other Topics:
-    	- Servo motors
- 	- Stepper motors 
-	- Sensors (limit switches, light sensors, IR proximity, reed switches, magnets)
-	- Shields
-	- Conditionals
-	  - If Then Else
-	- [Blink without Delay](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
-	- [Multitasking](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
-	- [Complex control](examples/multitasking/multitasking.ino)
-	- [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
-	- [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing) 
-	- [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays) 
-	- [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) 
-
+    - Motors
+      - Servo motors
+      - Stepper motors 
+    - Sensors (limit switches, light sensors, IR proximity, reed switches, magnets, accelerometers)
+      - [Adafruit Sensors](https://www.adafruit.com/category/35): a great place to start
+    - Shields
+      - [Adafruit Motor Shield](https://www.adafruit.com/product/1438?gclid=Cj0KCQjwsZ3kBRCnARIsAIuAV_TZHEo-LTvB0ZV_XQ-sJyi-hLa8w0-Hu2yvmwrRooctBu2QXZft0MEaAgq9EALw_wcB)
+      - [Adafruit Servo Shield] (https://www.adafruit.com/product/1411)
+    - Conditionals
+      - If Then Else
+    - Multitasking - aka: how to speed up your code and not miss important sensor data!
+      - [Blink without Delay](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
+      - [Multitasking](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+      - [Complex control](examples/multitasking/multitasking.ino)
+	
 - Hands-on activity
-	- Breadboard L293 H-bridge motor controller
+  - Breadboard L293 H-bridge motor controller
+  - play with a few sensors
+  - solder practice
 	
 - **Homework** due today: Monday March 11. 
   - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day. 
@@ -337,91 +350,73 @@ __The schedule is subject to change__
 				- What would you remove from this class?			
 				
 **Homework** due next week: Monday March 18. 
-  - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class. Upload this proposal to your Github repository in a new folder called "FinalProject"
+  - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class.         - Upload this proposal to your Github repository in a new folder called "FinalProject"
+    - Create a very clear project description identifying the Minimal Viable Project and optional add-ons
+    - Include flow charts, block diagrams, and/or schemtic diagrams that show the relevant electrical connections and flow
+    - Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
+    
+  - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
 
 ### Week 9: Monday, March 18, 2019
 - Evaluation feedback
 	- Documentation!
-	- Programming, examples, electronics
-	
-- Individual Final Project meetings 
-  - Dawn
-  - Peng
-  - Jason
-  - Simon
-  - Di
-  - Anqi
+	- Programming, examples, electronics	
+- Individual Final Project Proposal meetings 
 
+  		8:30 - Anqi
+		8:50 - Negash
+		9:10 - Di
+		9:30 - Jason
+		9:50 - Peng
+		10:10 - Dawn
+		10:30 - Simon		
 - Lecture
-	- Coding
-		- Functions
-		- Libraries
-		- Arrays
-		- Structuring code
-			- (Flow chart)
-			- Pseudo-code
+  - Coding
+    - Functions
+    - Libraries
+    - [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays) 
+    - Structuring code
+      - Flow chart
+      - Pseudo-code
+    - using sensor data
+      - [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
+      - [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing) 
+    
 - Hands-on activity
   - Soldering demo
-  - start soldering L293 proto board
   - Servo knob and sweep tutorials
+  - create your own Fritzing layout for the L293 H-Bridge
+    - project 1: solder a H-Bridge shield
+    - project 2: make a H-Bridgeshield on the Othermill
+    
 - __Homework__
-    - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
-    - create your own Fritzing layout for the L293 H-Bridge
-      - project 1: solder a H-Bridge shield
-      - project 2: make a H-Bridgeshield on the Othermill
-    - keep working on your vehicle/driving robot
+  - Improve the quality of your work on Github
+    - Well organized Github folders, good folder and file names
+    - Good descriptions for each assignment
+      - Programs should be:
+	- Well organized
+	- Properly indented
+	- Must include meaningful comments
+	- Unused variables and statements should be removed
+  - acquire parts for your Final Project if you haven't already!
+    - Order online or check out equipment from the Hybrid Lab
+  - research aspects of your Final Project that you need more information about
 
-- Code Challenge: Check out a servo motor and get a momentary pushbutton switch from the 
-			Hybrid Lab. Write a program to do the following:
-		1. Create an array of 5 integers 
-		2. Initialize the array with 5 arbitrary values between 0 and 180
-		3. Each time the button is pressed turn the servo motor 
-			to the next entry in the array. You will need to use the 
-			edge detection techniques you read about for this week. If you have
-			questions about this ask me.
-		4. When you reach the last entry in the array, with the next button press
-			start over at the beginning.
-		5. Upload this program to your Github repository 
-			in a new folder called "week8"
-
-- Upcoming: Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class. Upload this proposal to your Github repository in a new folder called "FinalProject"
-	
 		
 ### Spring Break: No Class - Monday, March 25, 2019 
 
 
 ## Week 10: Monday, April 1, 2019
-- Homework critique
 - Lecture
   - [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/), if necessary
   - [Edge detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
   - [Debouncing](https://www.arduino.cc/en/Tutorial/Debounce)
   - [Smoothing](https://www.arduino.cc/en/Tutorial/Smoothing)
   - Counting and [modulo](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
-  - Debugging
+  - Debugging review
 - Critique proposal concepts
 - Homework
-	- Complete the programming assignment from last week
-		- When the button is pressed and held down, the servo motor should only
-			advance once when the button is pressed and then not advance any more
-			until the button is released and pressed again
-	- Final project proposals and prototype
-		- Build a prototype to verify the most difficult part of your project
-		- Research 
-		- Order or check out equipment
-		- Create a very clear project description identifying the Minimal Viable
-			Project and optional add-ons
-			- Include flow charts, block diagrams, and pseudo-code
-	- Improve the quality of your work on Github
-		- Well organized Github folders, good folder and file names
-		- Good descriptions for each assignment
-		- Programs should be:
-			- Well organized
-			- Properly indented
-			- Must include meaningful comments
-			- Unused variables and statements should be removed
-		- You will be graded on these points
-
+  - work on a prototype to verify the most difficult part of your project
 
 ### Week 11: Monday, April 8, 2019
 - Lecture
