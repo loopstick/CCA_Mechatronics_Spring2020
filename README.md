@@ -314,7 +314,7 @@ __The schedule is subject to change__
       - [Adafruit Sensors](https://www.adafruit.com/category/35): a great place to start
     - Shields
       - [Adafruit Motor Shield](https://www.adafruit.com/product/1438?gclid=Cj0KCQjwsZ3kBRCnARIsAIuAV_TZHEo-LTvB0ZV_XQ-sJyi-hLa8w0-Hu2yvmwrRooctBu2QXZft0MEaAgq9EALw_wcB)
-      - [Adafruit Servo Shield] (https://www.adafruit.com/product/1411)
+      - [Adafruit Servo Shield](https://www.adafruit.com/product/1411)
     - Conditionals
       - If Then Else
     - Multitasking - aka: how to speed up your code and not miss important sensor data!
