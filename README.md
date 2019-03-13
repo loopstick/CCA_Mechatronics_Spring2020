@@ -347,7 +347,8 @@ __The schedule is subject to change__
 				- What would you remove from this class?			
 				
 **Homework** due next week: Monday March 18. 
-  - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class.         - Upload this proposal to your Github repository in a new folder called "FinalProject"
+  - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class.
+    - Upload this proposal to your Github repository in a new folder called "FinalProject"
     - Create a very clear project description identifying the Minimal Viable Project and optional add-ons
     - Include flow charts, block diagrams, and/or schemtic diagrams that show the relevant electrical connections and flow
     - Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
