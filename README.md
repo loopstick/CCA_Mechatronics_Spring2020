@@ -350,7 +350,7 @@ __The schedule is subject to change__
   - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class.
     - Upload this proposal to your Github repository in a new folder called "FinalProject"
     - Create a very clear project description identifying the Minimal Viable Project and optional add-ons
-    - Include flow charts, block diagrams, and/or schemtic diagrams that show the relevant electrical connections and flow
+    - Include flow charts, block diagrams, and/or schematic diagrams that show the relevant electrical connections and flow
     - Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
     
   - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
