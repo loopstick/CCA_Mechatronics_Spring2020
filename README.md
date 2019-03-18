@@ -493,6 +493,8 @@ CCA Spring 2019 Mechtranics GitHub Repositories
 - [Jason](https://github.com/jasonmalik4/Homework1/tree/master)
 - [Negash](https://github.com/conceitedengineering/MechatronicsS19)
 - [Simon](https://github.com/srevlock/FirstTry)
+- [Anqi](https://github.com/Annnqi/Mechatronics-sp2019)
+- [Peng](https://github.com/litiaoli/HW/)
 
 
 ## Past Student Repositories - for reference
