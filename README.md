@@ -490,9 +490,9 @@ __The schedule is subject to change__
 CCA Spring 2019 Mechtranics GitHub Repositories
 - [Dawn](https://github.com/danqian/mechatronic-2019)
 - [Di](https://github.com/DiWANG00)
-- [Jason](https://github.com/jasonmalik4/Homework1/tree/master)
+- [Jason](https://github.com/jasonmalik4/Mechatronic-2019)
 - [Negash](https://github.com/conceitedengineering/MechatronicsS19)
-- [Simon](https://github.com/srevlock/FirstTry)
+- [Simon](https://github.com/srevlock/Mechatronics-Spring-19)
 - [Anqi](https://github.com/Annnqi/Mechatronics-sp2019)
 - [Peng](https://github.com/litiaoli/HW/)
 
