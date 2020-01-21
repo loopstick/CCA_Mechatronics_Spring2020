@@ -7,7 +7,7 @@ Some Inspirational Videos for Mechatronics:
 - Arthur Ganson: http://arthurganson.com/
 - Benjamin Cowden: http://www.benjamincowden.com/
 - Neil Mendoza: http://www.neilmendoza.com/
- - [Fish Hammer](http://www.neilmendoza.com/portfolio/fish-hammer/)
+  - [Fish Hammer](http://www.neilmendoza.com/portfolio/fish-hammer/)
 - Survival Research Labs: http://www.srl.org 
   - [SRL at XFF 2012 teaser #4](https://www.youtube.com/watch?v=vVMj6gL420g&t=244s)
 - Christian Ristow: http://christianristow.com/
