@@ -22,7 +22,8 @@ The class repository will be used to assign homework and reading assignments, an
 You will be required to create your own repository for handing in homework and for project documentation.
 
 #### Required Textbook
-No textbook is required. There are many good online references and a few good books out there I can recommend. We also have a good assortment of books in the library. Highly recommended: Making Things Move by Dustyn Roberts http://www.makingthingsmove.com/about-the-book/
+No textbook is required. There are many good online references and a few good books out there I can recommend. We also have a good assortment of books in the library. Highly recommended: [Making Things Move by Dustyn Roberts](http://www.makingthingsmove.com/about-the-book/)
+and [Physical Computing by Dan O'Sullivan and Tom Igoe](https://www.goodreads.com/en/book/show/413213.Physical_Computing)
 
 #### Prerequisites
 * Basic algebra. You should be comfortable with simple equations, manipulating numbers, fractions, solving for variables, and the
@@ -208,9 +209,12 @@ __The schedule is subject to change__
 
 - **Homework:**
 	  - Motorize your contraption!
-	  - Take a short video of your Motorized Mechanical Contraption (MMC) and upload it to your Github repository
+      - **Build a simple drawing machine.** or _modify/develop/improve/**finish** your mechanical contraption_
+			  - The only requirement is that it is somehow motorized and that it leaves a mark on a piece of paper. You may use Arduino if you wish, but you are not required to.  Your drawing may be as complex or as simple as you wish.
+		- Take a short video of your Motorized Mechanical Contraption (MMC) and upload it to your Github repository
 
 ### Week 4: Monday, February 11, 2019
+- Drawing Machine or MMC progress report
 - Lecture
   - ARDUINO Introduction
 - Lab
@@ -231,12 +235,12 @@ __The schedule is subject to change__
 
 
 ### Week 5: Monday, February 18, 2019
-#### Motorized Mechanical Contraptions (MMC) critique
+#### Motorized Mechanical Contraptions/Drawing Machines (MMC) critique
 - Lecture/Demonstration
   - Basic Electronics: Voltage, Current, Resistance
   - circuits
     - switches
-  - Electronic Components [PowerPoint posted here](https://github.com/loopstick/Mechatronics-CCA-Spring-2018/blob/master/DrSudhu_ElecComponents_v2.pdf)
+  - Electronic Components [PowerPoint posted here](https://github.com/loopstick/Mechatronics-CCA-Spring-2020/blob/master/DrSudhu_ElecComponents_v2.pdf)
      - resistors
      - capacitors
      - inductors
@@ -244,28 +248,24 @@ __The schedule is subject to change__
      - diodes
      - transistors
      - integrated circuits
-
 - Lab
   - Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial) continued
-  - Fade, Analog Write
+  	- [analogWrite](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/)
+		- [Fade](https://www.arduino.cc/en/tutorial/fade)
+		- [Fading](https://www.arduino.cc/en/tutorial/fading)
 	- [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
-- **Homework:** 
-	- **Build a simple drawing machine.** or _modify/develop/improve/**finish** your motorized mechanical contraption_
-	  - The only requirement is that it is somehow motorized and that it leaves a mark on a piece of paper. You may use Arduino if you wish, but you are not required to.  You may use sensors if you wish, but you are not required to. Your drawing may be as complex or as simple as you wish.
-	    - Control the speed of the motor using [analogWrite](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/) to prevent damage to your contraption. I recommend starting with a very slow speed at first. (i.e. set analogWrite to 127, 50% of full speed)
-              - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything:
-	[setMotorSpeed](/examples/setMotorSpeed)
+	  - the importance of a [flyback diode](https://en.wikipedia.org/wiki/Flyback_diode)
+	  - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
+	  - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
+- **Homework:**
+	    - Control the speed of the motor using analogWrite to prevent damage to your contraption. I recommend starting with a very slow speed at first. (i.e. set analogWrite to 127, 50% of full speed)
+      - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything: [setMotorSpeed](/examples/setMotorSpeed)
 	  - The ability to easily turn on and off the machine is typically very desirable.
 	    - Study the Arduino Button [tutorial](https://www.arduino.cc/en/Tutorial/Button)
         - Take a short video of your _working_ Drawing Machine and upload it to your Github repository
 
 ### Week 6: Monday, February 25, 2019
-- Drawing Machines critique
 - Lecture
-  - Controlling motors (or other high current loads) with Arduino -  from our class tutorial:  [Controlling Large Load with a Transistor](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md#controlling-large-loads-with-a-transistor)
-    - the importance of a [flyback diode](https://en.wikipedia.org/wiki/Flyback_diode)
-    - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
-    - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
   - more Motor control
 		 - H-Bridges
 		      - https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/
@@ -283,6 +283,10 @@ __The schedule is subject to change__
     - solenoids
     - speakers
     - electromagnets
+	- Sensors
+	  - limit switches
+		- light sensors, IR proximity, reed switches, magnets, accelerometers
+	  - [Adafruit Sensors](https://www.adafruit.com/category/35): a great place to start
 
 - **Homework:**
 	- Build an electrical vehicle (2 week project) or _continue to develop your mechanical contraption_
@@ -315,24 +319,28 @@ __The schedule is subject to change__
 		- [H-bridge tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to reverse your motors, although you are not required to do this)
 
 ### Week 7: Friday, March 6, 2020
-- Work week
+- Lecture
+  - Conditionals
+	  - If Then Else
+  - Multitasking - aka: how to speed up your code and not miss important sensor data!
+	- [Blink without Delay](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
+	- [Multitasking](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+	- [Complex control](examples/multitasking/multitasking.ino)
+- Lab
+	- Work week
+- **Homework:**
   - keep working on your vehicle/driving robot
   - email me with code questions, problems, etc
   - post project documentation on gitHub as you go!!
 
 
 ### Week 8: Friday, March 13, 2020
-#### Midterm Projects Critique @ 12:30pm
+#### Midterm Projects: Vehicles Critique @ 12:30pm
 - Vehicle Project presentation and critique
 - Lecture:
   - [Debugging/Troubleshooting](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/Debugging.md)
     - also [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) on our resources page
-
-
-- Hands-on activity
-  - Breadboard L293 H-bridge motor controller
-  - play with a few sensors
-  - solder practice
+- Lab
 
 - **Homework** due today: Monday March 11.
   - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day.
@@ -367,25 +375,20 @@ __The schedule is subject to change__
 	- Documentation!
 	- Programming, examples, electronics
 - Individual Final Project Proposal meetings
+    12:00 -  
+		12:15 -  
+		12:30 -  
+		12:45 -
+		1:00 -
+		1:15 -
+		1:30 -
+		1:45 -
+		2:00 -
+		2:15 -
+		2:30 -
+		2:45 -
+		3:00 -
 
-  		8:30 - Anqi
-		8:50 - Negash
-		9:10 - Di
-		9:30 - Jason
-		9:50 - Peng
-		10:10 - Dawn
-		10:30 - Simon		
-- Lecture
-  - Coding
-    - Functions
-    - Libraries
-    - [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays)
-    - Structuring code
-      - Flow chart
-      - Pseudo-code
-    - using sensor data
-      - [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
-      - [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing)
 
 - Hands-on activity
   - Soldering demo
@@ -413,13 +416,20 @@ __The schedule is subject to change__
 
 ## Week 10: Friday, April 4, 2020
 - Lecture
-  - [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/), if necessary
-  - [Edge detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
-  - [Debouncing](https://www.arduino.cc/en/Tutorial/Debounce)
-  - [Smoothing](https://www.arduino.cc/en/Tutorial/Smoothing)
+  - Coding
+    - Functions
+    - Libraries
+    - [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays)
+    - Structuring code
+      - Flow chart
+      - Pseudo-code
+    - using sensor data
+      - [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
+      - [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing)
+		  - [Smoothing](https://www.arduino.cc/en/Tutorial/Smoothing)
+      - [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/), if necessary
   - Counting and [modulo](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
   - Debugging review
-- Critique proposal concepts
 - Homework
   - work on a prototype to verify the most difficult part of your project
 
