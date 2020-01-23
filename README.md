@@ -3,14 +3,14 @@
 ### Syllabus
 
 * Title: DESGN-636-02 Expanded Tools: Mechatronics
-* Class: Monday 8:00am - 11:00am, Room 107 SF Main (SF Hybrid Lab)
+* Class: Friday 12:00pm - 3:00pm, Room 107 SF Main (SF Hybrid Lab)
 * Instructor: Sudhu Tewari stewari@cca.edu or loopstick@hotmail.com
-* Office hours: 
-	* Monday & Thursdays 11:00 - 11:30
-	* and at other times by appointment
+* Office hours:
+* Friday 3:00pm - 4:00pm,
+* at other times by appointment
 
 #### Goals
-My goal is to teach you how to design, build, and debug [mechatronic](https://en.wikipedia.org/wiki/Mechatronics) devices. 
+My goal is to teach you how to design, build, and debug [mechatronic](https://en.wikipedia.org/wiki/Mechatronics) devices.
 I want to make the course as interesting and relevant as possible for you, so please ask questions and bring up specific topics you are curious about.
 
 #### Github and Class Repository
@@ -19,7 +19,7 @@ https://github.com/loopstick/Mechatronics-CCA-Spring-2019/
 
 The class repository will be used to assign homework and reading assignments, and will contain useful code, libraries, and links to other resources. Github allows you to receive email updates when a repository changes — take advantage of this feature!
 
-You will be required to create your own repository for handing in homework and for project documentation. 
+You will be required to create your own repository for handing in homework and for project documentation.
 
 #### Required Textbook
 No textbook is required. There are many good online references and a few good books out there I can recommend. We also have a good assortment of books in the library. Highly recommended: Making Things Move by Dustyn Roberts http://www.makingthingsmove.com/about-the-book/
@@ -33,7 +33,7 @@ engineering prefixes (micro, milli, kilo, mega, etc.)
 * Always bring your computer to class. If you don’t have a computer, check one out from the Media Center. You will need a computer to
 participate, and your grade will be negatively affected if you don’t bring one.
 * Always bring your electronics: Arduino, breadboard, motors, jumper wires, etc. to class.
-* Participate in class! Ask questions, guess answers, propose topics, share interesting projects you’ve found, push the envelope, explore your interests, and teach us all! There are no stupid questions; admitting when you don’t know something should be a point of pride. Chances are you’re not the only one with a question, just the bravest one. 
+* Participate in class! Ask questions, guess answers, propose topics, share interesting projects you’ve found, push the envelope, explore your interests, and teach us all! There are no stupid questions; admitting when you don’t know something should be a point of pride. Chances are you’re not the only one with a question, just the bravest one.
 * As outlined in the CCA Student Handbook, attendance in class is mandatory and three or more unexcused absences will result in a failing grade.
 * Plan to spend 3-12 hours a week on homework. If you don’t have a solid foundation in math you may need more time. Plan ahead!
 * Submit your homework on time.  Write clearly and legibly. Attend class, and don’t be late. These are not requests, these are requirements.
@@ -56,14 +56,14 @@ I will consider the various components of the class in roughly the following pro
 * 10% Attendance & Participation
 
 #### Grading Rubric
- 
+
 **A: Excellent.** You’ve exhibited exemplary conceptual, technical and
 perceptual ability implementing projects. You’ve demonstrated a deft
 understanding of required readings, and ability to successfully
 communicate ideas and processes to others. All work is commented and
-clearly demonstrates understanding of each lesson. 
+clearly demonstrates understanding of each lesson.
 
-**B: Good.** You’ve completed assignments, and demonstrated a grasp of 
+**B: Good.** You’ve completed assignments, and demonstrated a grasp of
 most of the main aspects of each lesson, but not all. You’re able to
 communicate information, and step by step processes well. In projects,
 conceptual, perceptual, and technical skills are present.
@@ -71,7 +71,7 @@ conceptual, perceptual, and technical skills are present.
 **C: Satisfactory.** You’ve completed the assignments but may lack
 enthusiasm or drive to push the work into detailed display of
 comprehension. You have not demonstrated comprehensive knowledge of
-the application or programming environment. 
+the application or programming environment.
 
 **D: Unsatisfactory.** You have not completed the work as assigned.
 Substantial problems exist in your work.
@@ -86,38 +86,43 @@ This class should be both fun and intense. It’s most fun when you enjoy what y
 
 #### Required equipment
 - _Arduino Uno R3__ e.g. from
-	[Arduino](https://store-usa.arduino.cc/products/a000066) or 
+	[Arduino](https://store-usa.arduino.cc/products/a000066) or
 	[Sparkfun](https://www.sparkfun.com/products/11021) or
-	[Jameco](https://www.jameco.com/z/A000066-Arduino-Arduino-Uno-R3-DIP-Edition-Revision-3-_2151486.html) or
-  	[Arduino](https://www.amazon.com/gp/product/B00CBZ4CII/3) via
+	[Jameco](https://www.jameco.com/z/A000066-Arduino-Arduino-Uno-R3-DIP-Edition-Revision-3-_2151486.html) or [Arduino](https://www.amazon.com/gp/product/B00CBZ4CII/3) via
 	[Amazon](https://www.amazon.com/gp/product/B008GRTSV6/ref=ox_sc_act_title_1?smid=AA57DDZKZUZDL&psc=1).
-    - Not recommended: Arduino compatibles, especially those from untested sources. Many sellers on Amazon or Ebay are selling cut-rate knock offs that _sometimes_ work and sometimes _do not_.
+    - Not recommended: Arduino compatibles, especially those from untested sources. Some sellers on Amazon or Ebay are selling cut-rate knock offs that _sometimes_ work and sometimes _do not_.
     - Also not recommended: [Adafruit Metro - Uno compatible](https://www.adafruit.com/products/50). Although Adafruit is typically a great source, the Metro FTDI drivers are less than simple and straightforward to get working and keep working consistently.
-    
+
 - _Solderless breadboard_, full size (also known as 830 tie point) e.g. from
-	[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView)
-- Full size _USB cable_ (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html)
-- Pack of _jumper wires_ e.g. from [Jameco](https://www.jameco.com/z/MKSEEED3-65-Piece-Reinforced-Jumper-Wire-Set_2229191.html) or [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3)
+	[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView) or [Adafruit](https://www.adafruit.com/product/239)
+
+- Full size _USB cable_ (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html) or [Adafruit](https://www.adafruit.com/product/62)
+
+- Pack of _jumper wires_ e.g. from [Jameco](https://www.jameco.com/z/MKSEEED3-65-Piece-Reinforced-Jumper-Wire-Set_2229191.html) or [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3) or [Adafruit](https://www.adafruit.com/product/759)
+
 - _Output_ devices for your projects: LEDs, speakers, motors, etc.
+
 - _Sensors_ for your project
+
 - _Laptop_ (Windows, Linux, or Macintosh)
-  - Highly recommended if you plan to use motors: 
+  - Highly recommended if you plan to use motors:
     - Adafruit [Motor/Stepper/Servo Shield](https://www.adafruit.com/product/1438)
     - also get [Shield Stacking Headers](https://www.adafruit.com/product/85) if you plan to use sensors or another shield
 
 If ordering online I encourage you to organize a group purchase to save on shipping fees, but do so immediately so you have the equipment on hand.
-Many vendors grant discounts for educational purposes so ask before you purchase. 
- - The code ADAEDU may be good for 10% educational discount at Adafruit. 
+Many vendors grant discounts for educational purposes so ask before you purchase.
+
+ - The code ADAEDU may be good for 10% educational discount at Adafruit.
  - Mentioning that you are a student of mine may get you a discount at Al Lasher’s.
 
 Local stores that should carry all these are:
 * [Jameco](http://www.jameco.com) in Belmont, just south of the SFO airport. Order online and pick up same day.
 * [Al Lasher's Electronics](http://allashers.com/) in Berkeley
-* [Fry's Electronics](http://www.frys.com) (various locations in South Bay) has some electronic supplies 
+* [Fry's Electronics](http://www.frys.com) (various locations in South Bay) has some electronic supplies
 
 
 #### Optional equipment
-As you develop your projects and interests, you might need to purchase additional components and devices. This is impossible to predict as the range of projects you might approach are indeed infinite. At the low end, you can build amazing projects from discarded electronic devices such as printers at absolutely no cost; at the high end there is no limit; a complicated robotic project could easily start at hundreds of dollars. 
+As you develop your projects and interests, you might need to purchase additional components and devices. This is impossible to predict as the range of projects you might approach are indeed infinite. At the low end, you can build amazing projects from discarded electronic devices such as printers at absolutely no cost; at the high end there is no limit; a complicated robotic project could easily start at hundreds of dollars.
 
 #### Some lessons I’ve learned:
 - Projects will cost more than you think they will
@@ -129,7 +134,7 @@ trade with other students (or the larger maker community) for parts that you do 
 ### Schedule
 __The schedule is subject to change__
 
-### Week 2: Monday, January 28, 2019
+### Week 1: Friday, January 24, 2020
 - Introductions
 - Interests and goals
 - Inspirational videos!
@@ -149,44 +154,84 @@ __The schedule is subject to change__
     - [cardboard](https://www.youtube.com/watch?v=QU2CzClTtjk)
     - foamcore and dowels ? ?
  - Hybrid Lab tour: supplies and tools for use or checkout  
- 
+ - discuss Interface show: Saturday, May 8, 7-9:30pm at Oliver Art Gallery in Oakland
+
 - **Homework:**
   - Get cardboard (or foamcore and dowels) and begin experimenting!
   - start building a crank driven mechanical contraption (due Week 3)
-  - Order required equipment (Arduino, motors, etc) to arrive no later than Sunday, February 17 (Fred's birthday!) so that you can participate in the class demo week 4: Monday, Feb 18. 
+  - Order required equipment (Arduino, motors, etc) to arrive no later than Monday, February 17 (Fred's birthday!) so that you can participate in the class demo week 4: Monday, Feb 18.
 	- some motors are available for use in the Hybrid Lab
 	- Arduino Unos can be checked out from the Hybrid Lab
   - Create your Github repository using [this guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
 	and email me the URL to your repository
 
-### Week 3: Monday, February 4, 2019
 
+### Week 2: Friday, January 31, 2020
 - Mechanical Contraptions progress report
-- discuss Interface show: Saturday, May 11, 7-9:30pm at Oliver Art Gallery in Oakland
+- Lecture
+	- Discussion: mechanical concepts and techniques arising from your experiments
+  - Case study: [constructing a mechatronic contraption](caseStudy/buildingAContraption)
+  - Motors + Soldering and Strain Relief!
+		- there are some motors for use in the Hybrid Lab (thanks, Michael Shiloh!)
+		- In order to use these motors we need to solder wire leads to them and add strain relief for the connections with hot glue or tape _or else_
+			- image here please
+		 - shaft coupling
+- Lab
+	- soldering and strain relief
+	- Make your motors go!
+	- **Homework:**
+	  - improve your Mechanical Contraption (MC)
+	  - Take a short video of your _working_ Mechanical Contraption project and upload it to your Github repository
+	  - Review [How to Select the Right Motor](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
+	  - Begin thinking about your Motorized Mechanical Contraption (MMC)
+	    - you may either add a motor to your contraption or build a new one
+	    - making the connection to a motor shaft can be challenging! Plan ahead, if you can!
+	  - get 2 AA batteries to bring to class next week (you'll need 6 later on in the class)
+
+
+
+### Week 3: Monday, February 4, 2019
+#### Mechanical Contraptions Critique
 - Review [Resources](https://github.com/loopstick/ResourcesForClasses)
   - especially the [Mechatronic Resources](https://github.com/loopstick/ResourcesForClasses#mechatronic-resources) section  
 - Lecture
-  - Case study: [constructing a mechatronic contraption](caseStudy/buildingAContraption)
   - Motor types (yes, before we even talk about electronicity)
     - [Meet the Motors](https://vimeo.com/album/2801639/video/84274150)
-    - [How to Select the Right Motor: Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
+    - [How to Select the Right Motor: Sparkfun Tutorial](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one)
   - circuits
     - switches
 - Lab
-  - work on Mechanical Contraptions
+  - work on Motorized Mechanical Contraptions (MMC)
   - battery holders and batteries
+	- soldering and strain relief if necessary
+	- Make your motors go!
 
 - **Homework:**
-  - Take a short video of your _working_ Mechanical Contraption project and upload it to your Github repository
-  - Review [How to Select the Right Motor](https://learn.sparkfun.com/tutorials/motors-and-selecting-the-right-one) 
-  - Begin thinking about motorizing your contraption 
-    - you may either add a motor and sensors to last week's assignment or build a new one
-    - making the connection to a motor shaft can be challenging! Plan ahead, if you can!
-  - get 4 AA batteries to bring to class next week
+	  - Motorize your contraption!
+	  - Take a short video of your Motorized Mechanical Contraption (MMC) and upload it to your Github repository
 
-	    
 ### Week 4: Monday, February 11, 2019
-- Mechanical Contraptions critique
+- Lecture
+  - ARDUINO Introduction
+- Lab
+  - Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
+	- HelloWorld, Blink
+- **Homework:**
+		- **play with your Arduino**
+		  - make something _interesting_ happen with 2 LEDs
+		    - think about how this might relate to controlling two motors
+		  - Review the Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
+		  we did in class. Read the entire tutorial, even the parts we didn't do
+		  - You might want to refer to some other Arduino material. There is plenty
+		online, such as the [Arduino Resources](https://github.com/loopstick/ResourcesForClasses#basic-arduino-resources)
+		on our class [Resources](https://github.com/loopstick/ResourcesForClasses) page
+		  - Read about controlling Motors with Arduino - (Must use a transistor or boom! - Arduino up in smoke):
+		    - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
+		    - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
+
+
+### Week 5: Monday, February 18, 2019
+#### Motorized Mechanical Contraptions (MMC) critique
 - Lecture/Demonstration
   - Basic Electronics: Voltage, Current, Resistance
   - circuits
@@ -199,44 +244,17 @@ __The schedule is subject to change__
      - diodes
      - transistors
      - integrated circuits
-  - shaft coupling techniques for Hybrid Lab motors
 
 - Lab
-  - Motors + Soldering and Strain Relief!
-      - there are some motors for use in the Hybrid Lab (thanks, Michael Shiloh!)
-      - In order to use these motors we need to solder wire leads to them and add strain relief for the connections with hot glue or tape _or else_
-      	- image here please
-     - shaft coupling
-  - Make your motors go!
-  
-- **Homework:**
-  - Motorize your contraption!	
-  - Take a short video of your Motorized Mechanical Contraption (MMC) and upload it to your Github repository
-	
-### Week 5: Monday, February 18, 2019
-- Motorized Contraptions critique
-- Lecture
-  - ARDUINO Introduction
-- Lab
-  - Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
-
+  - Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial) continued
+  - Fade, Analog Write
+	- [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
 - **Homework:** 
-	- **play with your Arduino**
-	  - make something _interesting_ happen with 2 LEDs
-	    - think about how this might relate to controlling two motors
-	  - Review the Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
-	  we did in class. Read the entire tutorial, even the parts we didn't do
-	  - You might want to refer to some other Arduino material. There is plenty
-	online, such as the [Arduino Resources](https://github.com/loopstick/ResourcesForClasses#basic-arduino-resources) 
-	on our class [Resources](https://github.com/loopstick/ResourcesForClasses) page
-	  - Read about controlling Motors with Arduino - (Must use a transistor or boom! - Arduino up in smoke): 
-	    - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
-	    - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
 	- **Build a simple drawing machine.** or _modify/develop/improve/**finish** your motorized mechanical contraption_
 	  - The only requirement is that it is somehow motorized and that it leaves a mark on a piece of paper. You may use Arduino if you wish, but you are not required to.  You may use sensors if you wish, but you are not required to. Your drawing may be as complex or as simple as you wish.
 	    - Control the speed of the motor using [analogWrite](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/) to prevent damage to your contraption. I recommend starting with a very slow speed at first. (i.e. set analogWrite to 127, 50% of full speed)
               - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything:
-	[setMotorSpeed](/examples/setMotorSpeed) 
+	[setMotorSpeed](/examples/setMotorSpeed)
 	  - The ability to easily turn on and off the machine is typically very desirable.
 	    - Study the Arduino Button [tutorial](https://www.arduino.cc/en/Tutorial/Button)
         - Take a short video of your _working_ Drawing Machine and upload it to your Github repository
@@ -244,31 +262,42 @@ __The schedule is subject to change__
 ### Week 6: Monday, February 25, 2019
 - Drawing Machines critique
 - Lecture
-  - Controlling motors (or  other high current loads) with Arduino: from our class tutorial:  [Controlling Large Load witha . Transistor](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md#controlling-large-loads-with-a-transistor)
+  - Controlling motors (or other high current loads) with Arduino -  from our class tutorial:  [Controlling Large Load with a Transistor](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md#controlling-large-loads-with-a-transistor)
     - the importance of a [flyback diode](https://en.wikipedia.org/wiki/Flyback_diode)
     - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
     - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
+  - more Motor control
+		 - H-Bridges
+		      - https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/
+		      - https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
+		      - http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
+		        - to buy or to build?
+		          - buy: https://www.mpja.com/Dual-L298N-Motor-Driver-Board/productinfo/34747+MD
+			  - build: https://www.adafruit.com/product/807
+  - Adafruit Motor Shield demo
+		- Shields
+			- [Adafruit Motor Shield](https://www.adafruit.com/product/1438)
+			- [Adafruit Servo Shield](https://www.adafruit.com/product/1411)
   - other electromechanical devices
     - relays
     - solenoids
     - speakers
     - electromagnets
-  - Adafruit Motor Shield demo
- 
+
 - **Homework:**
 	- Build an electrical vehicle (2 week project) or _continue to develop your mechanical contraption_
 		- Must be able to steer in one way or another
 		- Can be either autonomous or wired remote control
 			- Autonomous: Arduino decides what to do
-			- Remote controlled: User tells it what to do 
+			- Remote controlled: User tells it what to do
 			- Wired remote control: Whatever the user interacts with (e.g.
 				pushbuttons or a joy stick) is connected to the vehicle by wires
-			- Wireless remote control: Whatever the user interacts with 
+			- Wireless remote control: Whatever the user interacts with
 				communicates wirelessly (e.g. Bluetooth, WiFi, or InfraRed) with the
 				vehicle. This is complicated and not recommended at this time.
 			- Hint: Autonomous is easier because you don't have to build a user
 				interface
-		- Remember the principle of _Minimum Viable Product_. First get the basics 
+		- Remember the principle of _Minimum Viable Product_. First get the basics
 			working, then, if you have time, add other features
 		- This is a 2 week project. You should have a pretty solid
 			prototype or first draft working by next week. Use class next
@@ -277,7 +306,7 @@ __The schedule is subject to change__
 		- As always
 			- Email me if you have questions
 			- Make a new folder on your Github repository for this project
-			- Put your code in that folder. 
+			- Put your code in that folder.
 			- Put a schematic in that folder. Hand drawn is fine.  
 				If you want to use Frtizing, the schematic capture program that
 				I use, get it [here](http://fritzing.org)
@@ -285,81 +314,59 @@ __The schedule is subject to change__
 		- [Summer Robotics](http://teachmetomake.com/wordpress/arduino-robotics-cca-summer2016) class that might have some useful ideas
 		- [H-bridge tutorial](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) in case you want to go that far (allows you to reverse your motors, although you are not required to do this)
 
-### Week 7: Monday, March 4, 2019
-- Work week 
+### Week 7: Friday, March 6, 2020
+- Work week
   - keep working on your vehicle/driving robot
   - email me with code questions, problems, etc
   - post project documentation on gitHub as you go!!
-  
-- **Special Guest Lecturer: Scott Kildall - Thursday, March 7 @ 9am**
 
-### Week 8: Monday, March 11, 2019
-- Vehicle Project presentation and critique 
-- Lecture: 
+
+### Week 8: Friday, March 13, 2020
+#### Midterm Projects Critique @ 12:30pm
+- Vehicle Project presentation and critique
+- Lecture:
   - [Debugging/Troubleshooting](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/Debugging.md)
     - also [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) on our resources page
-  - more Motor control
-    - H-Bridges
-      - https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/
-      - https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
-      - http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
-        - to buy or to build?
-          - buy: https://www.mpja.com/Dual-L298N-Motor-Driver-Board/productinfo/34747+MD
-	  - build: https://www.adafruit.com/product/807	
-  - Other Topics:
-    - Motors
-      - Servo motors
-      - Stepper motors 
-    - Sensors (limit switches, light sensors, IR proximity, reed switches, magnets, accelerometers)
-      - [Adafruit Sensors](https://www.adafruit.com/category/35): a great place to start
-    - Shields
-      - [Adafruit Motor Shield](https://www.adafruit.com/product/1438?gclid=Cj0KCQjwsZ3kBRCnARIsAIuAV_TZHEo-LTvB0ZV_XQ-sJyi-hLa8w0-Hu2yvmwrRooctBu2QXZft0MEaAgq9EALw_wcB)
-      - [Adafruit Servo Shield](https://www.adafruit.com/product/1411)
-    - Conditionals
-      - If Then Else
-    - Multitasking - aka: how to speed up your code and not miss important sensor data!
-      - [Blink without Delay](https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay)
-      - [Multitasking](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
-      - [Complex control](examples/multitasking/multitasking.ino)
-	
+
+
 - Hands-on activity
   - Breadboard L293 H-bridge motor controller
   - play with a few sensors
   - solder practice
-	
-- **Homework** due today: Monday March 11. 
-  - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day. 
-  
+
+- **Homework** due today: Monday March 11.
+  - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day.
+
   			- Personal self-evaluation
 				- What have you learned?
 				- What are your goals for the rest of the semester?
 				- What obstacles will you face in achieving these goals?
 				- How do you plan to overcome those obstacles?
-				- How would you grade your vehicle? 
+				- How would you grade your vehicle?
 				- What would you have done differently if you had to do the vehicle assignment over again?
-				
-				
+
+
 			- Course evaluation
 				- What further would you like to learn in this course?
 				- What would you like to change in the course material?
 				- What would you like to change in the way the material is delivered?
 				- What would you add to this class?
 				- What would you remove from this class?			
-				
-**Homework** due next week: Monday March 18. 
+
+**Homework** due next week: Monday March 18.
   - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class.
     - Upload this proposal to your Github repository in a new folder called "FinalProject"
     - Create a very clear project description identifying the Minimal Viable Project and optional add-ons
     - Include flow charts, block diagrams, and/or schematic diagrams that show the relevant electrical connections and flow
     - Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
-    
+
   - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
 
-### Week 9: Monday, March 18, 2019
+### Week 9: Friday, March 20, 2020
 - Evaluation feedback
 	- Documentation!
-	- Programming, examples, electronics	
-- Individual Final Project Proposal meetings 
+	- Programming, examples, electronics
+- Individual Final Project Proposal meetings
 
   		8:30 - Anqi
 		8:50 - Negash
@@ -372,21 +379,21 @@ __The schedule is subject to change__
   - Coding
     - Functions
     - Libraries
-    - [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays) 
+    - [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays)
     - Structuring code
       - Flow chart
       - Pseudo-code
     - using sensor data
       - [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
-      - [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing) 
-    
+      - [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing)
+
 - Hands-on activity
   - Soldering demo
   - Servo knob and sweep tutorials
   - create your own Fritzing layout for the L293 H-Bridge
     - project 1: solder a H-Bridge shield
     - project 2: make a H-Bridgeshield on the Othermill
-    
+
 - __Homework__
   - Improve the quality of your work on Github
     - Well organized Github folders, good folder and file names
@@ -400,11 +407,11 @@ __The schedule is subject to change__
     - Order online or check out equipment from the Hybrid Lab
   - research aspects of your Final Project that you need more information about
 
-		
-### Spring Break: No Class - Monday, March 25, 2019 
+
+### Spring Break: No Class - Friday, March 27, 2020
 
 
-## Week 10: Monday, April 1, 2019
+## Week 10: Friday, April 4, 2020
 - Lecture
   - [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/), if necessary
   - [Edge detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
@@ -416,7 +423,7 @@ __The schedule is subject to change__
 - Homework
   - work on a prototype to verify the most difficult part of your project
 
-### Week 11: Monday, April 8, 2019
+### Week 11: Friday, April 10, 2020
 - Lecture
   - Fritzing and Othermill [tutorial](https://web.archive.org/web/20160906220300/http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)
   - Sensors (accelerometer, sound) and LCD display
@@ -429,65 +436,82 @@ __The schedule is subject to change__
     - Prototyping shields
       - When is it OK to use solid core wires
       - Mounting modules using headers
-  
+
 - **Homework:**
-	- Build any working part of your project 
+	- Build any working part of your project
 		(preferably the part you are most concerned about)
 		and demonstrate it in class next week
 
-### Week 12: Monday, April 15, 2019
+### Week 12: Friday, April 17, 2020
 - Critique working mock-up
-- Work week. 
+- Work week.
 - Homework
   - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
     think about whether the your project is doing something in a meaningful or
     unique way. Will someone want to play with your project for longer than
     5 seconds? Why or why not?
-  - Minimal Viable Project is due next week! 
+  - Minimal Viable Project is due next week!
     - Simplify your project if necessary
     - If it is too simple you will have one week to add complexity
-- Homework: __Working__ minimal viable project due week 14: April 29
+- Homework: __Working__ minimal viable project due week 14: May1
 
-### Week 13: Monday, April 22, 2019 - PENULTIMATE CLASS!
+### Week 13: Friday, April 24, 2020 - PENULTIMATE CLASS!
 - Demonstrate working minimal viable project
 - Work on final project
 
 
-### Week 14: Monday, April 29, 2018 - LAST CLASS!
-- Course evaluations 
-- Review schedule 
+### Week 14: Friday, May 1, 2020 - LAST CLASS!
+- Course evaluations
+- Review schedule
 - Review Interface Show spreadsheet
 - Review final project writeup
 - Final project critique
 
 ### Homework: Project writeup
-- Project writeup due May 6 9am, all on Github
+- Project writeup due May 8 at 9am, all on Github!
   - Describe goals of project briefly
   - Describe how, from a technical point of view, your choice of hardware and software achieves that goal
   - Accurate schematic
   - Parts list (major or unique parts, not LEDs, wire, etc.)
-  - A few pictures of overall project plus some close ups of the electronics and any mechanism 
+  - A few pictures of overall project plus some close ups of the electronics and any mechanism
   - A short video of the operational project
-  - Program(s) must be well commented 
+  - Program(s) must be well commented
     - Each variable must have a meaningful name
     - Each section (function, code block, loop, whatever) must be explained
     - All unused variables and code must be removed (commented out debug code may remain)
 
-### Week 15: Monday, May 6, 2019 - Year Zero Reviews - no class
+### Week 15: Friday, May 8, 2020 - Year Zero Reviews - no class
 - No class;  End of Year Reviews for Year Zero and Year One
-- Project writeup due 
+- Project write-up DUE! - post on GitHub
+- load-in for Interface show
 
+## Friday, May 8, 2020, 9am - Final Project Writeup due!
 
-
-## Saturday, May 11: Interface Show
+## Saturday, May 9: Interface Show!!!
 	7PM to 9:30PM
 	Oliver Art Center
 	California College of the Arts
-	5212 Broadway, Oakland 
+	5212 Broadway, Oakland
 
 
 ## Current Student Repositories
-CCA Spring 2019 Mechtranics GitHub Repositories
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-  
+
+
+
+## Past Student Repositories - for reference
+
+CCA Spring 2019 Mechatronics
 - [Dawn](https://github.com/danqian/mechatronic-2019)
 - [Di](https://github.com/DiWANG00)
 - [Jason](https://github.com/jasonmalik4/Mechatronic-2019)
@@ -496,9 +520,7 @@ CCA Spring 2019 Mechtranics GitHub Repositories
 - [Anqi](https://github.com/Annnqi/Mechatronics-sp2019)
 - [Peng](https://github.com/litiaoli/HW/)
 
-
-## Past Student Repositories - for reference
-CCA Spring 2018 Mechtranics GitHub Repositories)
+CCA Spring 2018 Mechatronics
 - [Jiahao](https://github.com/PlusWhy/Mechatronics)
 - [Kelly](https://github.com/krouser720/hw1)
 - [Jamie](https://github.com/jamie82226/Spring18_Mechatronic_JamieTsai)
