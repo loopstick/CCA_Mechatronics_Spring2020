@@ -363,10 +363,14 @@ __The schedule is subject to change__
 
 **Homework** due next week: Monday March 18.
   - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class.
+	  - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?
+		  - revise your proposal accordingly
     - Upload this proposal to your Github repository in a new folder called "FinalProject"
     - Create a very clear project description identifying the Minimal Viable Project and optional add-ons
     - Include flow charts, block diagrams, and/or schematic diagrams that show the relevant electrical connections and flow
     - Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
+	- Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?
+	  revise your proposal accordingly
 
   - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
 
@@ -456,10 +460,6 @@ __The schedule is subject to change__
 - Critique working mock-up
 - Work week.
 - Homework
-  - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
-    think about whether the your project is doing something in a meaningful or
-    unique way. Will someone want to play with your project for longer than
-    5 seconds? Why or why not?
   - Minimal Viable Project is due next week!
     - Simplify your project if necessary
     - If it is too simple you will have one week to add complexity
