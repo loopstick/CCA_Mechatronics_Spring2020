@@ -266,9 +266,9 @@ __The schedule is subject to change__
 - Lecture
   - more Motor control
 		- H-Bridges
-		  - https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/
-		  - https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
-		  - http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
+			- https://www.elprocus.com/h-bridge-motor-control-circuit-using-l293d-ic/
+			- https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
+			- http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
 		    - to buy or to build?
 		      - buy: https://www.mpja.com/Dual-L298N-Motor-Driver-Board/productinfo/34747+MD
 			    - build: https://www.adafruit.com/product/807
