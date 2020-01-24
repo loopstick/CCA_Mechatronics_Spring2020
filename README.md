@@ -221,14 +221,11 @@ __The schedule is subject to change__
   - Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
 	- HelloWorld, Blink
 - **Homework:**
-		- **play with your Arduino**
-		  - make something _interesting_ happen with 2 LEDs
-		    - think about how this might relate to controlling two motors
-		  - Review the Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial)
-		  we did in class. Read the entire tutorial, even the parts we didn't do
-		  - You might want to refer to some other Arduino material. There is plenty
-		online, such as the [Arduino Resources](https://github.com/loopstick/ResourcesForClasses#basic-arduino-resources)
-		on our class [Resources](https://github.com/loopstick/ResourcesForClasses) page
+	- **play with your Arduino**
+		- make something _interesting_ happen with 2 LEDs
+		  - think about how this might relate to controlling two motors
+		    - Review the Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial) we did in class. Read the entire tutorial, even the parts we didn't do
+		  - You might want to refer to some other Arduino material. There is plenty online, such as the [Arduino Resources](https://github.com/loopstick/ResourcesForClasses#basic-arduino-resources) on our class [Resources](https://github.com/loopstick/ResourcesForClasses) page
 		  - Read about controlling Motors with Arduino - (Must use a transistor or boom! - Arduino up in smoke):
 		    - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
 		    - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
