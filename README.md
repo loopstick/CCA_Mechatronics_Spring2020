@@ -36,7 +36,7 @@ participate, and your grade will be negatively affected if you don’t bring one
 * Always bring your electronics: Arduino, breadboard, motors, jumper wires, etc. to class.
 * Participate in class! Ask questions, guess answers, propose topics, share interesting projects you’ve found, push the envelope, explore your interests, and teach us all! There are no stupid questions; admitting when you don’t know something should be a point of pride. Chances are you’re not the only one with a question, just the bravest one.
 * As outlined in the CCA Student Handbook, attendance in class is mandatory and three or more unexcused absences will result in a failing grade.
-* Plan to spend 3-12 hours a week on homework. If you don’t have a solid foundation in math you may need more time. Plan ahead!
+* Plan to spend 3-12 hours a week on homework. Plan ahead!
 * Submit your homework on time.  Write clearly and legibly. Attend class, and don’t be late. These are not requests, these are requirements.
 * You are responsible for checking your email and the class repository for updates.
 
@@ -123,7 +123,7 @@ Local stores that should carry all these are:
 
 
 #### Optional equipment
-As you develop your projects and interests, you might need to purchase additional components and devices. This is impossible to predict as the range of projects you might approach are indeed infinite. At the low end, you can build amazing projects from discarded electronic devices such as printers at absolutely no cost; at the high end there is no limit; a complicated robotic project could easily start at hundreds of dollars.
+As you develop your projects and interests, you will likely need to purchase additional components and devices. This is impossible to predict as the range of projects you might approach are indeed infinite. At the low end, you can build amazing projects from discarded electronic devices such as printers at absolutely no cost; at the high end there is no limit; a complicated robotic project could easily start at hundreds of dollars.
 
 #### Some lessons I’ve learned:
 - Projects will cost more than you think they will
@@ -139,7 +139,7 @@ __The schedule is subject to change__
 - Introductions
 - Interests and goals
 - Inspirational videos!
--  [Resources](https://github.com/loopstick/ResourcesForClasses)
+  - [Resources](https://github.com/loopstick/ResourcesForClasses)
 - Lecture/Demonstration
   - [simple machines](https://www.vexrobotics.com/vexiq/education/iq-curriculum/simple-machines-and-motion/six-types-of-simple-machines)
   - mechanical devices
@@ -155,12 +155,12 @@ __The schedule is subject to change__
     - [cardboard](https://www.youtube.com/watch?v=QU2CzClTtjk)
     - foamcore and dowels ? ?
  - Hybrid Lab tour: supplies and tools for use or checkout  
- - discuss Interface show: Saturday, May 8, 7-9:30pm at Oliver Art Gallery in Oakland
+ - discuss **Interface show:** Saturday, May 9, 7-9:30pm at Oliver Art Gallery in Oakland
 
 - **Homework:**
   - Get cardboard (or foamcore and dowels) and begin experimenting!
   - start building a crank driven mechanical contraption (due Week 3)
-  - Order required equipment (Arduino, motors, etc) to arrive no later than Monday, February 17 (Fred's birthday!) so that you can participate in the class demo week 4: Monday, Feb 18.
+  - Order required equipment (Arduino, motors, etc) to arrive no later than Monday, February 17 (Fred's birthday!) so that you can participate in the class demo week 4: Friday, February 14, 2020
 	- some motors are available for use in the Hybrid Lab
 	- Arduino Unos can be checked out from the Hybrid Lab
   - Create your Github repository using [this guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
@@ -191,7 +191,7 @@ __The schedule is subject to change__
 
 
 
-### Week 3: Monday, February 4, 2019
+### Week 3: Friday, February 7, 2020
 #### Mechanical Contraptions Critique
 - Review [Resources](https://github.com/loopstick/ResourcesForClasses)
   - especially the [Mechatronic Resources](https://github.com/loopstick/ResourcesForClasses#mechatronic-resources) section  
@@ -210,10 +210,10 @@ __The schedule is subject to change__
 - **Homework:**
 	  - Motorize your contraption!
       - **Build a simple drawing machine.** or _modify/develop/improve/**finish** your mechanical contraption_
-			  - The only requirement is that it is somehow motorized and that it leaves a mark on a piece of paper. You may use Arduino if you wish, but you are not required to.  Your drawing may be as complex or as simple as you wish.
+			  - The only requirement is that it is somehow motorized and that it leaves a mark on a piece of paper.   Your drawing may be as complex or as simple as you wish.
 		- Take a short video of your Motorized Mechanical Contraption (MMC) and upload it to your Github repository
 
-### Week 4: Monday, February 11, 2019
+### Week 4: Friday, February 14, 2020
 - Drawing Machine or MMC progress report
 - Lecture
   - ARDUINO Introduction
@@ -234,7 +234,7 @@ __The schedule is subject to change__
 		    - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
 
 
-### Week 5: Monday, February 18, 2019
+### Week 5: Friday, February 21, 2020
 #### Motorized Mechanical Contraptions/Drawing Machines (MMC) critique
 - Lecture/Demonstration
   - Basic Electronics: Voltage, Current, Resistance
@@ -264,7 +264,7 @@ __The schedule is subject to change__
 	    - Study the Arduino Button [tutorial](https://www.arduino.cc/en/Tutorial/Button)
         - Take a short video of your _working_ Drawing Machine and upload it to your Github repository
 
-### Week 6: Monday, February 25, 2019
+### Week 6: Friday, February 28, 2020
 - Lecture
   - more Motor control
 		 - H-Bridges
@@ -287,6 +287,8 @@ __The schedule is subject to change__
 	  - limit switches
 		- light sensors, IR proximity, reed switches, magnets, accelerometers
 	  - [Adafruit Sensors](https://www.adafruit.com/category/35): a great place to start
+		- The humble [LDR](https://en.wikipedia.org/wiki/Photoresistor)
+		  - [analogRead()](https://www.arduino.cc/reference/en/language/functions/analog-io/analogread/)
 
 - **Homework:**
 	- Build an electrical vehicle (2 week project) or _continue to develop your mechanical contraption_
@@ -418,7 +420,7 @@ __The schedule is subject to change__
 ### Spring Break: No Class - Friday, March 27, 2020
 
 
-## Week 10: Friday, April 4, 2020
+## Week 10: Friday, April 3, 2020
 - Lecture
   - Coding
     - Functions
@@ -448,7 +450,8 @@ __The schedule is subject to change__
 - Hands-on Demo
     - Construction techniques
     - Prototyping shields
-      - When is it OK to use solid core wires
+      - When is it OK to use solid core wires?
+			- When to use stranded wire...
       - Mounting modules using headers
 
 - **Homework:**
@@ -516,7 +519,6 @@ __The schedule is subject to change__
 -
 -
 -  
-
 
 
 ## Past Student Repositories - for reference
