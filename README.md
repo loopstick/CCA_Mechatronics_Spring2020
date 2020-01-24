@@ -14,8 +14,8 @@ My goal is to teach you how to design, build, and debug [mechatronic](https://en
 I want to make the course as interesting and relevant as possible for you, so please ask questions and bring up specific topics you are curious about.
 
 #### Github and Class Repository
-We will be using a cloud service called Github. Our repository is at
-https://github.com/loopstick/Mechatronics-CCA-Spring-2020/
+We will be using a cloud service called Github. Our repository is here:
+https://github.com/loopstick/CCA_Mechatronics_Spring2020
 
 The class repository will be used to assign homework and reading assignments, and will contain useful code, libraries, and links to other resources. Github allows you to receive email updates when a repository changes — take advantage of this feature!
 
