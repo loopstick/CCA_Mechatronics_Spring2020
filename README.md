@@ -15,7 +15,7 @@ I want to make the course as interesting and relevant as possible for you, so pl
 
 #### Github and Class Repository
 We will be using a cloud service called Github. Our repository is at
-https://github.com/loopstick/Mechatronics-CCA-Spring-2019/
+https://github.com/loopstick/Mechatronics-CCA-Spring-2020/
 
 The class repository will be used to assign homework and reading assignments, and will contain useful code, libraries, and links to other resources. Github allows you to receive email updates when a repository changes — take advantage of this feature!
 
