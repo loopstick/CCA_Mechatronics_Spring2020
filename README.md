@@ -224,7 +224,7 @@ __The schedule is subject to change__
 	- **play with your Arduino**
 		- make something _interesting_ happen with 2 LEDs
 		  - think about how this might relate to controlling two motors
-		    - Review the Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial) we did in class. Read the entire tutorial, even the parts we didn't do
+		    - Review the Basic Arduino [Tutorial](https://github.com/loopstick/ArduinoTutorial) we did in class.
 		  - You might want to refer to some other Arduino material. There is plenty online, such as the [Arduino Resources](https://github.com/loopstick/ResourcesForClasses#basic-arduino-resources) on our class [Resources](https://github.com/loopstick/ResourcesForClasses) page
 		  - Read about controlling Motors with Arduino - (Must use a transistor or boom! - Arduino up in smoke):
 		    - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
@@ -255,11 +255,11 @@ __The schedule is subject to change__
 	  - [Arduino Transistor Motor Control: Arduino Reference](https://www.arduino.cc/en/Tutorial/TransistorMotorControl)
 	  - [Using a Transistor to Control High Current Loads: ITP @ NYU](http://itp.nyu.edu/physcomp/labs/motors-and-transistors/using-a-transistor-to-control-high-current-loads-with-an-arduino/)
 - **Homework:**
-	    - Control the speed of the motor using analogWrite to prevent damage to your contraption. I recommend starting with a very slow speed at first. (i.e. set analogWrite to 127, 50% of full speed)
-      - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything: [setMotorSpeed](/examples/setMotorSpeed)
+	- Control the speed of the motor using analogWrite to prevent damage to your contraption. I recommend starting with a very slow speed at first. (i.e. set analogWrite to 127, 50% of full speed)
+    - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything: [setMotorSpeed](/examples/setMotorSpeed)
 	  - The ability to easily turn on and off the machine is typically very desirable.
 	    - Study the Arduino Button [tutorial](https://www.arduino.cc/en/Tutorial/Button)
-        - Take a short video of your _working_ Drawing Machine and upload it to your Github repository
+  - Take a short video of your _working_ Drawing Machine and upload it to your Github repository
 
 ### Week 6: Friday, February 28, 2020
 - Lecture
