@@ -160,7 +160,7 @@ __The schedule is subject to change__
 - **Homework:**
   - Get cardboard (or foamcore and dowels) and begin experimenting!
   - start building a crank driven mechanical contraption (due Week 3)
-  - Order required equipment (Arduino, motors, etc) to arrive no later than Monday, February 17 (Fred's birthday!) so that you can participate in the class demo week 4: Friday, February 14, 2020
+  - Order required equipment (Arduino, motors, etc) to arrive in time for class week 4: Friday, February 14, 2020
 	- some motors are available for use in the Hybrid Lab
 	- Arduino Unos can be checked out from the Hybrid Lab
   - Create your Github repository using [this guide](https://github.com/zamfi/cca-programming-electronics-fall-2016-monday/blob/master/github-guide.md)
