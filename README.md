@@ -259,6 +259,7 @@ __The schedule is subject to change__
     - Here is an example Arduino program that just sets the speed of the motor and doesn't change anything: [setMotorSpeed](/examples/setMotorSpeed)
 	  - The ability to easily turn on and off the machine is typically very desirable.
 	    - Study the Arduino Button [tutorial](https://www.arduino.cc/en/Tutorial/Button)
+			- use a physical switch to control power!
   - Take a short video of your _working_ Drawing Machine and upload it to your Github repository
 
 ### Week 6: Friday, February 28, 2020
@@ -272,8 +273,8 @@ __The schedule is subject to change__
 		      - buy: https://www.mpja.com/Dual-L298N-Motor-Driver-Board/productinfo/34747+MD
 			    - build: https://www.adafruit.com/product/807
   - Adafruit Motor Shield demo
-		- Shields
-			- [Adafruit Motor Shield](https://www.adafruit.com/product/1438)
+	  - Shields
+		  - [Adafruit Motor Shield](https://www.adafruit.com/product/1438)
 			- [Adafruit Servo Shield](https://www.adafruit.com/product/1411)
   - other electromechanical devices
     - relays
