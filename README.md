@@ -269,7 +269,7 @@ __The schedule is subject to change__
 	  - https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/
 	  - http://www.instructables.com/id/How-to-Use-the-L293D-Motor-Driver-With-Arduino/
 		  - to buy or to build?
-			  - buy: https://www.mpja.com/Dual-L298N-Motor-Driver-Board/productinfo/34747+MD
+			  - buy: https://www.adafruit.com/product/3190
 			  - build: https://www.adafruit.com/product/807
   - Adafruit Motor Shield demo
 	- Shields
@@ -381,16 +381,16 @@ __The schedule is subject to change__
     12:00 -  
 		12:15 -  
 		12:30 -  
-		12:45 -
-		1:00 -
-		1:15 -
-		1:30 -
-		1:45 -
-		2:00 -
-		2:15 -
-		2:30 -
-		2:45 -
-		3:00 -
+		12:45 -   
+		1:00 -   
+		1:15 -   
+		1:30 -   
+		1:45 -  
+		2:00 -  
+		2:15 -  
+		2:30 -  
+		2:45 -  
+		3:00 -  
 
 
 - Hands-on activity
