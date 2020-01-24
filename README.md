@@ -392,14 +392,6 @@ __The schedule is subject to change__
 		2:45 -  
 		3:00 -  
 
-
-- Hands-on activity
-  - Soldering demo
-  - Servo knob and sweep tutorials
-  - create your own Fritzing layout for the L293 H-Bridge
-    - project 1: solder a H-Bridge shield
-    - project 2: make a H-Bridgeshield on the Othermill
-
 - __Homework__
   - Improve the quality of your work on Github
     - Well organized Github folders, good folder and file names
