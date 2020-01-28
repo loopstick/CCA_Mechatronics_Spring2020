@@ -497,8 +497,11 @@ __The schedule is subject to change__
 
 
 ## Current Student Repositories
--
--
+- [Jingyu](https://github.com/deliajingyu/Jingyu_CCA_Mechatronics_2020) . 
+- [Tianbai ](https://github.com/Tianbaidun0-0/TianbaiDun--Mechatronics) . 
+- [Sissi](https://github.com/xuxin0105/Sissi_CCA_Mechatronic_2020) . 
+- [Jieya](https://github.com/Jsongs/JieyaS_CCA_Mechatronics_2020) . 
+- [Scott](https://github.com/scottmarlowe/Marlowe_CCA_Mechatronics_2020) . 
 -
 -
 -
