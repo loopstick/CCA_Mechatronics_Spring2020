@@ -502,7 +502,7 @@ __The schedule is subject to change__
 - [Sissi](https://github.com/xuxin0105/Sissi_CCA_Mechatronic_2020) . 
 - [Jieya](https://github.com/Jsongs/JieyaS_CCA_Mechatronics_2020) . 
 - [Scott](https://github.com/scottmarlowe/Marlowe_CCA_Mechatronics_2020) . 
--
+- [Rio](https://github.com/riojiangTDD/Riojiang_CCA_mechatronics_2020)
 -
 -
 -
