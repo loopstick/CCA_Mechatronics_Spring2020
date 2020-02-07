@@ -497,20 +497,19 @@ __The schedule is subject to change__
 
 
 ## Current Student Repositories
-- [Jingyu](https://github.com/deliajingyu/Jingyu_CCA_Mechatronics_2020) . 
-- [Tianbai ](https://github.com/Tianbaidun0-0/TianbaiDun--Mechatronics) . 
-- [Sissi](https://github.com/xuxin0105/Sissi_CCA_Mechatronic_2020) . 
-- [Jieya](https://github.com/Jsongs/JieyaS_CCA_Mechatronics_2020) . 
-- [Scott](https://github.com/scottmarlowe/Marlowe_CCA_Mechatronics_2020) . 
-- [Rio](https://github.com/riojiangTDD/Riojiang_CCA_mechatronics_2020)
--
--
--
--
--
--
--
--  
+- Stella
+- [Jieya](https://github.com/Jsongs/JieyaS_CCA_Mechatronics_2020) .
+- [Jingyu](https://github.com/deliajingyu/Jingyu_CCA_Mechatronics_2020) .  
+- [Leah](https://github.com/leahKallenCCADigitalMechatronics2020)
+- [Scott](https://github.com/scottmarlowe/Marlowe_CCA_Mechatronics_2020) .
+- [Shubhangi](https://github.com/ShubhangiChuhadia/Shubhangi_CCA_Mechatronics_2020)
+- [Sihan](https://github.com/Tianbaidun0-0/Tianbai_CCA_Mechatronics_2020)
+- [Tianbai ](https://github.com/Tianbaidun0-0/TianbaiDun--Mechatronics) .   
+- [Sissi](https://github.com/xuxin0105/Sissi_CCA_Mechatronic_2020) .            
+- Yuan
+- Zitong
+- [Rio](https://github.com/riojiangTDD/Riojiang_CCA_mechatronics_2020)  
+
 
 
 ## Past Student Repositories - for reference
