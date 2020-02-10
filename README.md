@@ -506,7 +506,7 @@ __The schedule is subject to change__
 - [Sihan](https://github.com/Tianbaidun0-0/Tianbai_CCA_Mechatronics_2020)
 - [Tianbai ](https://github.com/Tianbaidun0-0/TianbaiDun--Mechatronics) .   
 - [Sissi](https://github.com/xuxin0105/Sissi_CCA_Mechatronic_2020) .            
-- Yuan
+- [Yuan](https://github.com/timonjiang/mechatronics)
 - Zitong
 - [Rio](https://github.com/riojiangTDD/Riojiang_CCA_mechatronics_2020)  
 
