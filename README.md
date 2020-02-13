@@ -497,7 +497,7 @@ __The schedule is subject to change__
 
 
 ## Current Student Repositories
-- Stella
+- [Stella](https://github.com/stellaczh/Mechatronics)
 - [Jieya](https://github.com/Jsongs/JieyaS_CCA_Mechatronics_2020) .
 - [Jingyu](https://github.com/deliajingyu/Jingyu_CCA_Mechatronics_2020) .  
 - [Leah](https://github.com/leahKallenCCADigitalMechatronics2020)
