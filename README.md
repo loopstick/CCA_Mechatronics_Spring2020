@@ -173,10 +173,10 @@ __The schedule is subject to change__
 	- Discussion: mechanical concepts and techniques arising from your experiments
   - Case study: [constructing a mechatronic contraption](caseStudy/buildingAContraption)
   - Motors + Soldering and Strain Relief!
-		- there are some motors for use in the Hybrid Lab (thanks, Michael Shiloh!)
-		- In order to use these motors we need to solder wire leads to them and add strain relief for the connections with hot glue or tape _or else_
-			- image here please
-		 - shaft coupling
+    - there are some motors for use in the Hybrid Lab (thanks, Michael Shiloh!)
+    - In order to use these motors we need to solder wire leads to them and add strain relief for the connections _or else_
+    - [Strain Relief!](https://github.com/loopstick/ResourcesForClasses/tree/master/StrainRelief)
+    - [Shaft Coupling!](https://github.com/loopstick/ResourcesForClasses/tree/master/ShaftCoupling)
 - Lab
 	- soldering and strain relief
 	- Make your motors go!
