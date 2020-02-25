@@ -341,7 +341,7 @@ __The schedule is subject to change__
     - also [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) on our resources page
 - Lab
 
-- **Homework** due today: Monday March 11.
+- **Homework** due Friday March 13.
   - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day.
 
   			- Personal self-evaluation
@@ -360,7 +360,7 @@ __The schedule is subject to change__
 				- What would you add to this class?
 				- What would you remove from this class?			
 
-**Homework** due next week: Monday March 18.
+**Homework** due next week: Friday March 20.
   - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class.
 	  - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?
 		  - revise your proposal accordingly
@@ -378,7 +378,7 @@ __The schedule is subject to change__
 	- Documentation!
 	- Programming, examples, electronics
 - Individual Final Project Proposal meetings
-    12:00 -  
+    		12:00 -  
 		12:15 -  
 		12:30 -  
 		12:45 -   
