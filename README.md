@@ -334,6 +334,7 @@ __The schedule is subject to change__
 
 
 ### Week 8: Friday, March 13, 2020
+## POSTPONED for CORONAVIUS PANDEMIC
 #### Midterm Projects: Vehicles Critique @ 12:30pm
 - Vehicle Project presentation and critique
 - Lecture:
