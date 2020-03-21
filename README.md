@@ -360,6 +360,10 @@ __The schedule is subject to change__
 
 ## CLASS CANCELLED for CORONAVIUS PANDEMIC
 
+ - Continue working on your midterm project
+ - wash your hands
+ - be healthy, happy, and safe
+ 
 - __Homework__
   - Improve the quality of your work on Github
     - Well organized Github folders, good folder and file names
@@ -375,23 +379,19 @@ __The schedule is subject to change__
 
 
 ### Spring Break: No Class - Friday, March 27, 2020
-- __Homework__
-  - Improve the quality of your work on Github
-    - Well organized Github folders, good folder and file names
-    - Good descriptions for each assignment
-      - Programs should be:
-	- Well organized
-	- Properly indented
-	- Must include meaningful comments
-	- Unused variables and statements should be removed
-  - acquire parts for your Final Project if you haven't already!
-    - Order online or check out equipment from the Hybrid Lab
-  - research aspects of your Final Project that you need more information about
 
+ - Continue working on your midterm project
+ - stay home
+ - wash your hands
+ - be healthy, happy, and safe
+ 
 
 ## Week 10: Friday, April 3, 2020
 
 #### Midterm Project Critique 
+- midterm project critique via Zoom.
+ - check your email for the meeting invitation
+ - make sure your gitHub documentation is complete and elegant!! 
 
 - Lecture:
   - [Debugging/Troubleshooting](https://github.com/loopstick/CCA_DigitalElectronics_Spring2020/blob/master/Debugging.md)
