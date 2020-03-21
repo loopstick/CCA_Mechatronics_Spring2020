@@ -407,24 +407,6 @@ __The schedule is subject to change__
     	- Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
 
 
-- Lecture
-  - Coding
-    - Functions
-    - Libraries
-    - [Arrays](https://github.com/loopstick/ResourcesForClasses#arrays)
-    - Structuring code
-      - Flow chart
-      - Pseudo-code
-    - using sensor data
-      - [Edge Detection](https://github.com/loopstick/ResourcesForClasses#edge-detection)
-      - [Debouncing](https://github.com/loopstick/ResourcesForClasses#debouncing)
-		  - [Smoothing](https://www.arduino.cc/en/Tutorial/Smoothing)
-      - [Digital Read](https://www.arduino.cc/reference/en/language/functions/digital-io/digitalread/), if necessary
-  - Counting and [modulo](https://www.arduino.cc/reference/en/language/structure/arithmetic-operators/modulo/)
-  - Debugging review
-- Homework
-  - work on a prototype to verify the most difficult part of your project
-
 ### Week 11: Friday, April 10, 2020
 
 - Individual Final Project Proposal meetings
@@ -448,17 +430,14 @@ __The schedule is subject to change__
     - complex program
     - combining examples
     - functions
-- Hands-on Demo
-    - Construction techniques
+  - [Construction techniques](https://github.com/loopstick/ResourcesForClasses/tree/master/ConstructionTechniques)
     - Prototyping shields
-      - When is it OK to use solid core wires?
-			- When to use stranded wire...
-      - Mounting modules using headers
+    - When is it OK to use solid core wires?
+    - When to use stranded wire...
+    - Mounting modules using headers
 
 - **Homework:**
-	- Build any working part of your project
-		(preferably the part you are most concerned about)
-		and demonstrate it in class next week
+	- Build any working part of your project(preferably the part you are most concerned about) and demonstrate it in class next week
 
 ### Week 12: Friday, April 17, 2020
 - Critique working mock-up
@@ -501,11 +480,12 @@ __The schedule is subject to change__
 
 ## Friday, May 8, 2020, 9am - Final Project Writeup due!
 
-## Saturday, May 9: Interface Show!!!
-	7PM to 9:30PM
+## Saturday, May 9: Interface Show - CANCELLED!!!
+ - We hope to find an online platform to host this show. Stay tuned!
+	~7PM to 9:30PM
 	Oliver Art Center
 	California College of the Arts
-	5212 Broadway, Oakland
+	5212 Broadway, Oakland~
 
 
 ## Current Student Repositories
