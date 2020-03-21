@@ -334,14 +334,7 @@ __The schedule is subject to change__
 
 
 ### Week 8: Friday, March 13, 2020
-## POSTPONED for CORONAVIUS PANDEMIC
-#### Midterm Projects: Vehicles Critique @ 12:30pm
-- Vehicle Project presentation and critique
-- Lecture:
-  - [Debugging/Troubleshooting](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/Debugging.md)
-    - also [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) on our resources page
-- Lab
-
+## CLASS POSTPONED for CORONAVIUS PANDEMIC
 - **Homework** due Friday March 13.
   - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day.
 
@@ -361,38 +354,27 @@ __The schedule is subject to change__
 				- What would you add to this class?
 				- What would you remove from this class?			
 
-**Homework** due next week: Friday March 20.
-  - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class.
-	  - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?
-		  - revise your proposal accordingly
-    - Upload this proposal to your Github repository in a new folder called "FinalProject"
-    - Create a very clear project description identifying the Minimal Viable Project and optional add-ons
-    - Include flow charts, block diagrams, and/or schematic diagrams that show the relevant electrical connections and flow
-    - Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
-	- Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?
-	  revise your proposal accordingly
 
-  - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
 
 ### Week 9: Friday, March 20, 2020
-- Evaluation feedback
-	- Documentation!
-	- Programming, examples, electronics
-- Individual Final Project Proposal meetings
-    		12:00 -  
-		12:15 -  
-		12:30 -  
-		12:45 -   
-		1:00 -   
-		1:15 -   
-		1:30 -   
-		1:45 -  
-		2:00 -  
-		2:15 -  
-		2:30 -  
-		2:45 -  
-		3:00 -  
 
+## CLASS CANCELLED for CORONAVIUS PANDEMIC
+
+- __Homework__
+  - Improve the quality of your work on Github
+    - Well organized Github folders, good folder and file names
+    - Good descriptions for each assignment
+      - Programs should be:
+	- Well organized
+	- Properly indented
+	- Must include meaningful comments
+	- Unused variables and statements should be removed
+  - acquire parts for your Final Project if you haven't already!
+    - Order online ~or check out equipment from the Hybrid Lab~
+  - research aspects of your Final Project that you need more information about.
+
+
+### Spring Break: No Class - Friday, March 27, 2020
 - __Homework__
   - Improve the quality of your work on Github
     - Well organized Github folders, good folder and file names
@@ -407,10 +389,24 @@ __The schedule is subject to change__
   - research aspects of your Final Project that you need more information about
 
 
-### Spring Break: No Class - Friday, March 27, 2020
-
-
 ## Week 10: Friday, April 3, 2020
+
+#### Midterm Project Critique 
+
+- Lecture:
+  - [Debugging/Troubleshooting](https://github.com/loopstick/CCA_DigitalElectronics_Spring2020/blob/master/Debugging.md)
+    - also [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) on our resources page
+    
+**Homework** due next week: April 10 (or sooner).
+  - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class.	  	- Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?
+ 	- revise your proposal accordingly
+    - Upload this proposal to your Github repository in a new folder called "FinalProject"
+    	- Create a very clear project description identifying the Minimal Viable Project and optional add-ons
+    	- Include flow charts, block diagrams, and/or schematic diagrams that show the relevant electrical connections and flow
+	  - familiarize yourself with Fritzing (if you haven't already), this is a great way to create an easy to share bundles of your circuit and code.
+    	- Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
+
+
 - Lecture
   - Coding
     - Functions
@@ -430,6 +426,21 @@ __The schedule is subject to change__
   - work on a prototype to verify the most difficult part of your project
 
 ### Week 11: Friday, April 10, 2020
+
+- Individual Final Project Proposal meetings
+    		12:00 -  
+		12:15 -  
+		12:30 -  
+		12:45 -   
+		1:00 -   
+		1:15 -   
+		1:30 -   
+		1:45 -  
+		2:00 -  
+		2:15 -  
+		2:30 -  
+		2:45 -  
+		3:00 -  
 - Lecture
   - Fritzing and Othermill [tutorial](https://web.archive.org/web/20160906220300/http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)
   - Sensors (accelerometer, sound) and LCD display
