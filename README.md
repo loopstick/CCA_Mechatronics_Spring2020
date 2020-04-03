@@ -499,7 +499,7 @@ __The schedule is subject to change__
 - [Tianbai ](https://github.com/Tianbaidun0-0/TianbaiDun--Mechatronics) .   
 - [Sissi](https://github.com/xuxin0105/Sissi_CCA_Mechatronic_2020) .            
 - [Yuan](https://github.com/timonjiang/mechatronics)
-- Zitong
+- [Zitong](https://github.com/zitong113/zitong_CCA_Mechatronics_Spring2020)
 - [Rio](https://github.com/riojiangTDD/Riojiang_CCA_mechatronics_2020)  
 
 
