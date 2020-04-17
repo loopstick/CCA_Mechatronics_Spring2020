@@ -410,26 +410,20 @@ __The schedule is subject to change__
 ### Week 11: Friday, April 10, 2020
 
 - Individual Final Project Proposal meetings
-    		12:00 -  
-		12:15 -  
-		12:30 -  
-		12:45 -   
-		1:00 -   
-		1:15 -   
-		1:30 -   
-		1:45 -  
-		2:00 -  
-		2:15 -  
-		2:30 -  
-		2:45 -  
-		3:00 -  
-- Lecture
-  - Fritzing and Othermill [tutorial](https://web.archive.org/web/20160906220300/http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)
-  - Sensors (accelerometer, sound) and LCD display
-    - sensors
-    - complex program
-    - combining examples
-    - functions
+   - Sissi	10:20 AM
+  - Zitong	11:00 AM
+  - Zoe		11:40 AM
+  - Rio		12:20 PM
+  - Stella	1:00 PM
+  - Jieya	1:20 PM
+  - Jingyu	1:40 PM
+  - Leah	2:00 PM
+  - Scott	2:20 PM
+  - Sihan	3:00 PM
+  - Yuan	3:20 PM
+  - Shubh	3:40 PM
+  
+- Discussion
   - [Construction techniques](https://github.com/loopstick/ResourcesForClasses/tree/master/ConstructionTechniques)
     - Prototyping shields
     - When is it OK to use solid core wires?
@@ -440,7 +434,8 @@ __The schedule is subject to change__
 	- Build any working part of your project(preferably the part you are most concerned about) and demonstrate it in class next week
 
 ### Week 12: Friday, April 17, 2020
-- Critique working mock-up
+- Lecture/demo @ 12pm: Distance sensors (Ultrasonic and Infrared)
+  -  see links on our class [Resources page](https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#sensor-resources---lightmotion)
 - Work week.
 - Homework
   - Minimal Viable Project is due next week!
